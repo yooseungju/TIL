@@ -1,4 +1,7 @@
-## read and write
+# 1218
+
+###  파일 읽고 쓰기
+
 #### - read
 ```python 
 f = open("new.txt", "r") 
@@ -65,3 +68,10 @@ for item in hotkeyword:
 ```
 
    
+
+# 1220
+
+### - 딕셔너리 기초
+
+
+
