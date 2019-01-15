@@ -2,8 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f71b4e5-3114-4c54-a00d-c0e7d49b2044" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm_class/practice/A2_bus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm_class/practice/A2_card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm_class/practice/A2_min_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Algorithm_class/practice/A2_new_bus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/.idea/Algorithm_class.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/.idea/day_01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/.idea/runConfigurations/.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/Bubble_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/Count_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/SWtest_1_14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/gravity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/greedy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/view.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorithm_class/day_01/순열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bj_16507.py" beforeDir="false" afterPath="$PROJECT_DIR$/bj_16507.py" afterDir="false" />
     </list>
@@ -15,20 +38,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bj_16507.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Algorithm_class/practice/A2_bus.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+            <state relative-caret-position="306">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Algorithm_class/day_01/Count_sort.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../../A2_유승주/A2_min_max.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="204">
+              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -50,13 +73,23 @@
       <list>
         <option value="$PROJECT_DIR$/../../Algorithm_class/day_01/순열.py" />
         <option value="$PROJECT_DIR$/bj_16507.py" />
+        <option value="$PROJECT_DIR$/BJ_6064.py" />
+        <option value="$PROJECT_DIR$/../../../../A2_유승주/A2_card.py" />
+        <option value="$PROJECT_DIR$/../../../../A2_유승주/A2_min_max.py" />
+        <option value="$PROJECT_DIR$/A2_flatten.py" />
+        <option value="$PROJECT_DIR$/venv/flatten.txt" />
+        <option value="$PROJECT_DIR$/flatten.txt" />
+        <option value="$PROJECT_DIR$/bJ_6064.py" />
+        <option value="$PROJECT_DIR$/A2_Flatten.py" />
+        <option value="$PROJECT_DIR$/bj_1991.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="228" />
-    <option name="width" value="1376" />
-    <option name="height" value="920" />
+    <option name="x" value="731" />
+    <option name="y" value="1" />
+    <option name="width" value="1102" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -72,6 +105,11 @@
               <item name="pc" type="b2602c69:ProjectViewProjectNode" />
               <item name="pc" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pc" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -79,7 +117,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bj_16507.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Algorithm_class/practice" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -94,7 +132,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.A2_Flatten">
+    <configuration name="A2_Flatten" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A2_Flatten.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bJ_6064" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bJ_6064.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bj_16507" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,6 +198,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.A2_Flatten" />
+        <item itemvalue="Python.bJ_6064" />
         <item itemvalue="Python.bj_16507" />
       </list>
     </recent_temporary>
@@ -136,15 +218,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="228" y="0" width="1376" height="920" extended-state="0" />
+    <frame x="731" y="1" width="1102" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.0593963" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2706767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36340535" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39898348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3143483" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39479393" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -178,24 +260,86 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../BJ_16507.py" />
-    <entry file="file://$PROJECT_DIR$/../../Algorithm_class/day_01/순열.py">
+    <entry file="file://$PROJECT_DIR$/../../Algorithm_class/day_01/순열.py" />
+    <entry file="file://$PROJECT_DIR$/../../Algorithm_class/day_01/Count_sort.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="276">
+          <caret line="331" selection-start-line="331" selection-end-line="331" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Algorithm_class/day_01/Count_sort.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/parse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="174">
+          <caret line="775" selection-start-line="775" selection-end-line="775" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../A2_유승주/A2_card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Algorithm_class/practice/A2_flatten.py" />
+    <entry file="file://$PROJECT_DIR$/venv/flatten.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flatten.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Algorithm_class/practice/Count_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bj_1991.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bJ_6064.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A2_Flatten.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bj_16507.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Algorithm_class/practice/A2_bus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../A2_유승주/A2_min_max.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
