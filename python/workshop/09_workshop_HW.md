@@ -4,7 +4,7 @@
    <a herf="https://www.ssafy.com"><button>싸피</button></a>
    ```
 
-2.  href 는 <a>코드안에 나오는 것이다.
+2.  href 는 <a>코드안에 나오는 것이다!
 
 3. 
 
