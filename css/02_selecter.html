@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="02.css">
+    <title>Document</title>
+</head>
+<body>
+    <p>빨간맛</p>
+
+    <h1>TAG 선택자</h1>
+
+    <!--class 우선순위 > TAG우선순위-->
+    <h2>클래스 선택자</h2>
+    <h2 class="pink">클래스 선택자</h2>
+
+    <!--ID우선순위 > Class 우선순위-->
+    <h3 id="green">ID 선택자</h3>
+    <h3 id="green" class="pink">ID 선택자 < Class 선택자</h3>
+
+    <hr>
+
+    <!-- span태그와 div태그는 모두 의미는 없지만 '마크업'을 해야 css적용시킬수 있기 때문에 사용한다.
+        컴퓨터니까 특정한 곳을 지정해줘야 되고 따라서 선택자가 필요하고, 선택자를 잡기위해서는 마크업이 필요하다
+    -->
+    <p> <span class="blue">파란색</span>과 <span id="green">초록색</span></p>
+
+    <!--달라지는 점이 무엇일까라고 했을 때, tag를 통해 여기는 강조혹은 볼드체라는 것을 명시!
+    따라서 단순 볼드채를 하기위해 strong 남발하는 경우에는 브라우저가 모든 볼드체를 강조하게된다.-->
+    <p class="bold blue pink">볼드체</p>
+    <!-- 같은 선택자 클래스 우선순위는 css에서 나중에 나오는게 높다-->
+    <p><strong>strong 볼드체</strong></p>
+    <p><b>b 볼드체</b></p>
+
+    <hr>
+
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+p{
+    font-size: 20px;
+}
+
+ol, ol li{
+    color: darkseagreen;
+    font-size: 1.2rem;
+
+}
+
+ul, ul li{
+    color: coral;
+    font-size: 1.2em;
+
+}
+.vh{
+    color: rgba(55, 46,215, 0.5 );
+    font-size: 5vh;
+}
+
+.vw{
+    color: rgb(55, 215,52);
+    font-size: 5vw;
+}

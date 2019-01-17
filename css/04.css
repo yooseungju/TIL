@@ -1,0 +1,56 @@
+.square{
+    width: 100px;
+    height: 100xp;
+    background-color: yellowgreen;
+}
+
+.padding-10{
+    padding: 10px;
+}
+.border_box{
+    box-sizing: border-box;
+
+}
+.padding {
+    padding: 10px;
+}
+
+.margin-50{
+    margin: 50px;
+
+}
+
+.margin-top-100{
+    margin: 100px 0px 0px 0px;
+
+}
+
+.margin-10{
+    margin: 10px 20px 30px;
+
+}
+
+
+.border{
+    border: 10px black dashed;
+    /* border-style: dashed;
+    border-bottom-style: double;
+    border-right-style: dotted;
+    border-left-style: inset;
+    border-bottom-color: blue; */
+}
+
+.circle{
+    width: 200px;
+    height: 200px;
+    background-color: darkgoldenrod;
+    border-radius: 50%;
+}
+
+.luckby{
+    width: 200px;
+    height: 200px;
+    background-color: darkgoldenrod;
+    border-radius: 70% 10% 70% 10%;
+}
+

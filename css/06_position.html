@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="06.css">
+
+
+    <title>Document</title>
+</head>
+<body>
+    <div class="square"> 
+        <div class="square relative-box">
+            <b>Relative</b> <br>
+            현재위치에서 상하좌우 상대적으로 움직일 수 있게 된다 <br>
+            position 적용전 기준으로 움직임 <br>
+            움직인후 원래 있었던 공간이 유지됨 <br>
+        </div>
+    </div><br>
+
+    <div class="square">
+        <div class="square absolute-box">
+            <b>Absolute</b> <br>
+            기본레이어 관계에서 벗어난다 <br>
+            즉, 다른 도형들도 새로은 자리로 움직이게 된다. <br>
+            움직인 후 원래 있었던 공간이 사라진다. <br>
+            부모의 영역을 벗어나 자유롭게 어디든 위치할 수 있다. <br>
+            부모의 static 이외에 positioin 속성이 지정되어있을 경우에만 부모를 기준으로 위차하게된다. <br>
+            만약 부모, 조상이 모두 static 이면 document body를 기준으로 위치하게 된다.
+        </div>
+    </div>
+
+
+    <div class="fixed">
+        포지션 연습
+        absolute랑 동일하게 움직이지만 스크롤이 생길때 움직이지않고 고정되어있다.
+    </div>
+
+
+    <div class="square absolute-box z-index-1"></div>
+    <div class="square absolute-box z-index-2"></div>
+    <div class="square absolute-box z-index-3"></div>
+    
+</body>
+</html>
