@@ -32,44 +32,48 @@
 #             bit[2] = k
 #             print(bit)
 #
-# # 부분집합 만들기  -  2
-# arr = [1,2,3]
-# n = len(arr)
+# 부분집합 만들기  -  2
+arr = [1,2,3]
+n = len(arr)
+
+for i in range(1<<n):
+    arr2 = []
+    for j in range(n+1):
+        if i&(i<<j):
+            print(arr[j], end=",")
+            arr2.append(arr[j])
+
+
+    print()
+print()
+
+
+
+# def subset(o_set):
+#     N = len(o_set)
+#     cnt = 0
 #
-# for i in range(1<<n):
-#     for j in range(n+1):
-#         if i&(i<<j):
-#             print(arr[j], end=",")
-#     print()
-# print()
+#     for i in range(1<<N):
+#         sum = 0
+#         for j in range(N+1):
+#             if i & (i<<j):
+#                 sum += o_set[j]
+#     if sum == 0:
+#         cnt += 1
+#         for j in range(len(o_set)):
+#             if i&(1<<j):
+#                 print(o_set[j], end =" ")
+#         print()
+#
+#
+#
+#     return cnt
 
 
-
-def subset(o_set):
-    N = len(o_set)
-    cnt = 0
-
-    for i in range(1<<N):
-        sum = 0
-        for j in range(N+1):
-            if i & (i<<j):
-                sum += o_set[j]
-    if sum == 0:
-        cnt += 1
-        for j in range(len(o_set)):
-            if i&(1<<j):
-                print(o_set[j], end =" ")
-        print()
-
-
-
-    return cnt
-
-
-
-
-ans = subset([-7,-3,-2,5,8])
-print(ans)
+#
+#
+# ans = subset([-7,-3,-2,5,8])
+# print(ans)
 
 
 
