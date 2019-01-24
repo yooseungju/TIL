@@ -1,0 +1,101 @@
+/* @media(){
+
+} */
+/* @media(min-width:600px){
+    h1{
+        color:crimson;
+    }
+} */
+
+@media(max-width:540px){
+    .grid_system::after{
+        content: 'Extra Small';
+ }
+}
+
+@media(min-width:540px){
+    .grid_system::after{
+        content: 'Small';
+ }
+ @media(min-width:720px){
+     .grid_system::after{ content: 'Medium';}
+   
+ }
+ @media(min-width:960px){
+    .grid_system::after{content: 'Large';}
+ }
+ @media(min-width:1140px){
+    .grid_system::after{content: 'Extra large';}
+ }
+
+ 
+
+
+@media(max-width:500px){
+    h2{
+        color: darkgreen;
+    }
+}
+p.orientation::after{
+    content: '가로입니다.'
+}
+
+
+@media(orientation:portrait){
+    p.orientation::after{
+        content: '세로입니다.'
+    }
+}
+
+
+@media(min-width:400px){
+    .rainbow{
+        color: red;
+    }
+}
+@media(min-width:500px){
+    .rainbow{
+        color: orange;
+    }
+}
+@media(min-width:600px){
+    .rainbow{
+        color:yellow;
+    }
+}
+@media(min-width:700px){
+    .rainbow{
+        color:green;
+    }
+}
+@media(min-width:800px){
+    .rainbow{
+        color: blue;
+    }
+}
+@media(min-width:900px){
+    .rainbow{
+        color: navy;
+    }
+}
+@media(min-width:1000px){
+    .rainbow{
+        color: purple;
+    }
+}
+
+@media(max-height:500px) and (max-width:500px){
+    h3{
+        color: violet;
+    }
+
+}@media only  print{
+    h4{
+        color:red;
+    }
+}
+
+
+
+
+
