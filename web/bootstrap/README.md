@@ -125,9 +125,9 @@ flex-direction의 주축을 따라 정렬된 flex요소의 수직 정렬 방식�
     </h5>
 </center>
 
-| flex-start                                                   | flex-end                                                     | stretch                                                      | center                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![1548337018591](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337018591.png) | <img src=.\flex_images\align_items_flex_end_row.PNG width=100%> | ![1548336895426](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548336895426.png) | ![1548336955810](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548336955810.png) |
+|                 flex-start                  |                           flex-end                           |                           stretch                            |                            center                            |
+| :-----------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src=.\flex_images\wrap.PNG width=100%> | <img src=.\flex_images\align_items_flex_end_row.PNG width=100%> | <img src=.\flex_images\align_items_stretch_row.PNG width=100%> | <img src=.\flex_images\align_items_center_row.PNG width=700> |
 
 <center>
     <h5>
@@ -135,9 +135,17 @@ flex-direction의 주축을 따라 정렬된 flex요소의 수직 정렬 방식�
     </h5>
 </center>
 
-| flex-start                                                   | flex-end                                                     | stretch                                                      | center                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![1548337111964](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337111964.png) | ![1548337139250](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337139250.png) | ![1548337174043](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337174043.png) | ![1548337201222](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337201222.png) |
+
+<center>
+    <h5>
+        < 주축이 column일때 >
+    </h5>
+</center>
+
+
+|                          flex-start                          |                           flex-end                           |                           stretch                            |                            center                            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src=.\flex_images\align_items_flex_start_col.PNG width=700> | <img src=.\flex_images\align_items_flex_end_col.PNG width=700> | <img src=.\flex_images\align_items_stretch_col.PNG width=700> | <img src=.\flex_images\align_items_center_col.PNG width=700> |
 
 - **flex-start** : 주축을 x로 잡고 y 시작점부터 정렬
 - **flex-end**:  주축을 x로 잡고 y 끝점부터 정렬된다.
@@ -170,11 +178,11 @@ flex-direction의 주축을 따라 정렬된 flex요소의 수평 정렬 방식�
 
 | flex-start                                                   | flex-end                                                     | stretch                                                      | center                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![1548337565949](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337565949.png) | ![1548337594692](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337594692.png) | ![1548337620444](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337620444.png) | ![1548337668905](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337668905.png) |
+| <img src=.\flex_images\justify-content-start-row.PNG width=700> | <img src=.\flex_images\justify-content-end-row.PNG width=700> | <img src=.\flex_images\justify-content-stretch-row.PNG width=700> | <img src=.\flex_images\justify-content-center-row.PNG width=700> |
 
 |                         space-around                         |                        space-between                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![1548337731298](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337731298.png) | ![1548337752911](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337752911.png) |
+| <img src=.\flex_images\justify-content-around-row.PNG width=300> | <img src=.\flex_images\justify-content-between-row.PNG width=300> |
 
 
 
@@ -184,15 +192,13 @@ flex-direction의 주축을 따라 정렬된 flex요소의 수평 정렬 방식�
     </h5>
 </center>
 
-| flex-star                                                    | flex-end                                                     | stretch                                                      | center                                                       |
+| flex-start                                                   | flex-end                                                     | stretch                                                      | center                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![1548337953472](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337953472.png) | ![1548337977638](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337977638.png) | ![1548338009691](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548338009691.png) | ![1548338030180](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548338030180.png) |
+| <img src=.\flex_images\justify-content-start-col.PNG width=700> | <img src=.\flex_images\justify-content-end-col.PNG width=700> | <img src=.\flex_images\justify-content-stretch-col.PNG width=700> | <img src=.\flex_images\justify-content-center-col.PNG width=700> |
 
 | space-around                                                 | space-between                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![1548337921867](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337921867.png) | ![1548337898560](C:\Users\YSJ\AppData\Roaming\Typora\typora-user-images\1548337898560.png) |
-
-
+| <img src=.\flex_images\justify-content-around-col.PNG width=300> | <img src=.\flex_images\justify-content-between-col.PNG width=300> |
 
 - **flex-start** :  `초기값` 주축을 x로 잡고 x축 시작점부터 정렬
 
