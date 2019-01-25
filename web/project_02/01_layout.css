@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css?family=Baloo+Thambi&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Jua');
+
+body, html {
+    height: 100%;
+}
+
+.header-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://media.wired.com/photos/5b7350e75fc74d47846ce4e4/master/w_582,c_limit/Popcorn-869302844.jpg");
+
+  height: 350px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.header-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Baloo Thambi', cursive;
+  color: white;
+}
+
+body{
+    height: 1000px;
+}
+footer{ 
+    position:fixed; 
+    right:0px; 
+    padding: 0 3rem;
+    bottom:0px; 
+    height:50px; 
+    width:100%; 
+    background: darkgray;
+    color:white; }
+
+.font-jua{
+    font-family: 'Jua', sans-serif;
+
+}
+
