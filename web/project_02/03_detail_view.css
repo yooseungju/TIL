@@ -19,7 +19,6 @@ body, html {
 
 .header-image:hover{
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("https://media.wired.com/photos/5b7350e75fc74d47846ce4e4/master/w_582,c_limit/Popcorn-869302844.jpg");
-
 }
 
 .header-text {
