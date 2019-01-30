@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo+Thambi&subset=latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Jua');
 
-body, html {
-    height: 100%;
+body{
+    height: 3000px;
 }
 
 .header-image {
@@ -52,4 +52,6 @@ footer{
     font-family: 'Jua', sans-serif;
 
 }
-
+.pointer{
+    cursor: pointer;
+}

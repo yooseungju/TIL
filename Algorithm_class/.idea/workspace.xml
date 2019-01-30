@@ -5,37 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cb1b91e-bff0-4324-9f06-f8c461da78ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A6_workshop_회문2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A6_글자수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A6_문자열비교.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A6_회문.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_practice/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_practice/Tree_BinarySearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_practice/Tree_subTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_practice/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_practice/z_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A6_workshop_회문2.py" beforeDir="false" afterPath="$PROJECT_DIR$/A6_workshop_회문2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/.idea/BJ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/BJ_10799.ipynb.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/BJ_16507.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/pc/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/pc/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/pc/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/pc/.idea/pc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/pc/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/pc/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/pc/A2_Flatten.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/pc/bJ_6064.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/pc/bj_16507.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/pc/bj_1991.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BJ/pc/flatten.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm_practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/project_02/03_detail_view.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web/project_02/03_detail_view.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/project_02/03_detail_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/project_02/03_detail_view.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,12 +18,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/A6_회문.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -57,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="1010" lean-forward="true" selection-start-line="1010" selection-end-line="1010" />
+            <state relative-caret-position="771">
+              <caret line="1010" selection-start-line="1010" selection-end-line="1010" />
             </state>
           </provider>
         </entry>
@@ -66,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/A6_workshop_회문2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+            <state relative-caret-position="255">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -75,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -132,8 +106,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="681" />
-    <option name="y" value="6" />
+    <option name="x" value="480" />
+    <option name="y" value="4" />
     <option name="width" value="1265" />
     <option name="height" value="1035" />
   </component>
@@ -143,6 +117,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,7 +129,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -334,10 +308,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="681" y="6" width="1265" height="1035" extended-state="0" />
+    <frame x="480" y="4" width="1265" height="1035" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.035918366" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26367345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -531,29 +505,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="1010" lean-forward="true" selection-start-line="1010" selection-end-line="1010" />
+        <state relative-caret-position="771">
+          <caret line="1010" selection-start-line="1010" selection-end-line="1010" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A6_회문.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A6_workshop_회문2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        <state relative-caret-position="255">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
         </state>
       </provider>
     </entry>

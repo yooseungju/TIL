@@ -24,33 +24,36 @@ def answer():
 
     #가로를 탐색
     for i in range(100):
-        for j in range(100):
-            flag = 0
-            while flag == 0:
-                Max = 100
-                if j + Max <= 100:
-                    if find_pelindrome(arr[i][j:j + Max]):
+        flag = 0
+        while flag == 0:
+            rMax = 100
+            for j in range(100):
+                if j + rMax <= 100:
+                    if find_pelindrome(arr[i][j:j + rMax]):
                         flag = 1
-                        if Max > long:
-                            long = Max
+                        if rMax > long:
+                            long = rMax
                         break
-                Max -= 1
+                    rMax -= 1
+
 
     # 세로를 탐색
     for n in range(100):
         tmp = []
         for m in range(100):
             tmp.append(arr[m][n])
-        Max = 100
 
-        while Max > long:
+        flag = 0
+        while flag == 0:
+            cMax = 100
             for t in range(len(tmp)):
-                if t + Max <= 100:
-                    if find_pelindrome(tmp[t:t+Max]):
-                        if Max > long:
-                            long = Max
+                if t + cMax <= 100:
+                    if find_pelindrome(tmp[t:t+cMax]):
+                        flag =1
+                        if cMax > long:
+                            long = cMax
                         break
-            Max -= 1
+                    cMax -= 1
     return long
 
 T = 10
