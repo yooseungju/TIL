@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cb1b91e-bff0-4324-9f06-f8c461da78ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithm_class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm_class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A6_workshop_회문2.py" beforeDir="false" afterPath="$PROJECT_DIR$/A6_workshop_회문2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../test.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,9 +16,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A6_workshop_회문2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/print.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="1010" selection-start-line="1010" selection-end-line="1010" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -43,7 +64,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../../유승주_0115/A2_유승주/전기버스.py" />
+        <option value="$USER_HOME$/유승주_0115/A2_유승주/전기버스.py" />
         <option value="$PROJECT_DIR$/flatten.py" />
         <option value="$PROJECT_DIR$/2차원배열.ipynb" />
         <option value="$PROJECT_DIR$/2차원배열.py" />
@@ -67,17 +88,17 @@
         <option value="$PROJECT_DIR$/A6_글자수.py" />
         <option value="$PROJECT_DIR$/A6_회문.py" />
         <option value="$PROJECT_DIR$/input.txt" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/A6_workshop_회문2.py" />
         <option value="$PROJECT_DIR$/print.py" />
+        <option value="$PROJECT_DIR$/A6_workshop_회문2.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="717" />
-    <option name="y" value="4" />
-    <option name="width" value="1028" />
-    <option name="height" value="1035" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="80" />
+    <option name="y" value="6" />
+    <option name="width" value="1528" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -85,7 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,6 +117,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.print">
+  <component name="RunManager" selected="Python.test">
     <configuration name="A5_test01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_class" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,14 +224,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="A6_workshop_회문2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="A6_workshop_회문2" type="PythonConfigurationType" factoryName="Python">
       <module name="Algorithm_class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\student\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\YSJ\AppData\Local\Programs\Python\Python36\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -266,11 +287,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.A6_workshop_회문2" />
+      <item itemvalue="Python.A5_test01" />
+      <item itemvalue="Python.A6_문자열비교" />
+      <item itemvalue="Python.print" />
+      <item itemvalue="Python.test" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.print" />
-        <item itemvalue="Python.A6_workshop_회문2" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.print" />
         <item itemvalue="Python.A6_문자열비교" />
         <item itemvalue="Python.A5_test01" />
       </list>
@@ -299,15 +326,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="717" y="4" width="1028" height="1035" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32626262" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20468947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3318535" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25033647" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39838493" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32963374" />
@@ -358,10 +385,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../유승주_0115/A2_유승주/전기버스.py" />
-    <entry file="file://$PROJECT_DIR$/../../../유승주_0115/A2_유승주/숫자카드.py" />
-    <entry file="file://$PROJECT_DIR$/../../../유승주_0115/A2_유승주/구간합.py" />
-    <entry file="file://$PROJECT_DIR$/../../../유승주_0115/A2_유승주/min_max.py" />
+    <entry file="file://$USER_HOME$/유승주_0115/A2_유승주/전기버스.py" />
+    <entry file="file://$USER_HOME$/유승주_0115/A2_유승주/숫자카드.py" />
+    <entry file="file://$USER_HOME$/유승주_0115/A2_유승주/구간합.py" />
+    <entry file="file://$USER_HOME$/유승주_0115/A2_유승주/min_max.py" />
     <entry file="file://$PROJECT_DIR$/practice/A2_flatten.py" />
     <entry file="file://$PROJECT_DIR$/2차원배열.ipynb" />
     <entry file="file://$PROJECT_DIR$/flatten.py">
@@ -372,7 +399,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/input" />
-    <entry file="file://$PROJECT_DIR$/../../../module/A.py" />
+    <entry file="file://$USER_HOME$/module/A.py" />
     <entry file="file://$PROJECT_DIR$/A3_검색.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -492,29 +519,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/print.py" />
     <entry file="file://$PROJECT_DIR$/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19190">
+        <state relative-caret-position="427">
           <caret line="1010" selection-start-line="1010" selection-end-line="1010" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/A6_workshop_회문2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="133">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/print.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
