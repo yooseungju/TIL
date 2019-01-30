@@ -22,19 +22,21 @@ def answer():
         arr.append(list(input()))
 
 
-    #가로를 탐색
+    # 가로를 탐색
     for i in range(100):
         flag = 0
         while flag == 0:
             rMax = 100
-            for j in range(100):
-                if j + rMax <= 100:
-                    if find_pelindrome(arr[i][j:j + rMax]):
-                        flag = 1
-                        if rMax > long:
-                            long = rMax
-                        break
-                    rMax -= 1
+            j = 0
+            # 한칸씩 뒤로 가면서  pelindrome 검사
+            while j + rMax <= 100 and j < 100 :
+                if find_pelindrome(arr[i][j:j + rMax]):
+                    flag = 1
+                    if rMax > long:
+                        long = rMax
+                    break
+                rMax -= 1
+                j += 1
 
 
     # 세로를 탐색
@@ -46,8 +48,8 @@ def answer():
         flag = 0
         while flag == 0:
             cMax = 100
-            for t in range(len(tmp)):
-                if t + cMax <= 100:
+            t = 0
+                while t + cMax <= 100 and t < 100:
                     if find_pelindrome(tmp[t:t+cMax]):
                         flag =1
                         if cMax > long:
