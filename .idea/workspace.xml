@@ -2,117 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2379ead-8cd7-49cc-aaa9-03e660f4ae22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_class/.idea/Algorithm_class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_class/.idea/Algorithm_class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_class/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_class/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_class/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_class/A6_workshop_회문2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_class/A6_workshop_회문2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm_class/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_class/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_practice/.idea/Algorithm_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_practice/.idea/Algorithm_practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_practice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_practice/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/01-Python.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/boxoﬃce.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20010291jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20168773jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20170513jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20170658jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20174981jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20175547jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20176251jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20176814jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20177538jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20177552jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20178825jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20179006jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20179230jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20180290jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20180523jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20181171jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20181404jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20181905jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20182082jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20182421jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20182669jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20182693jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20182935jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20182966jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20183007jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20183050jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20183073jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20183238jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20183375jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20183479jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20183745jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20183785jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20183915jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20184105jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20184187jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20184481jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20184574jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20185485jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20186281jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20186822jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20189463jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20189843jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/images/20189869jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/movie.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/movie_naver.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/project_01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/Project_01_190118/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/01_layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/01_layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/02-movie.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/02_WEB_guide.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/02_movie.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/03_detail_view.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/03_detail_view.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20176251-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20176251-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20176251-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20176251.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20180290-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20180290-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20180290-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20180290.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20182544-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20182544-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20182544-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20182544.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20184105-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20184105-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20184105-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20184105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20186324-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20186324-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20186324-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20186324.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20189463-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20189463-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20189463-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/20189463.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/assets/popcorn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/project_02/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/03_workshop&amp;HW.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/06_Workshop&amp;HW.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/07_workshop&amp;HW.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/08_workshop&amp;HW.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/D01-S.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/D01.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/D09_HW.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/D09_workshop.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/D10_HW.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/D10_Workshop.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/D11_HW.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/D11_workshap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/D12 _workshop.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/D12_HW.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/HW_02.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop/Untitled.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,30 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm_class/A6_workshop_회문2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="32" column="55" lean-forward="true" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algorithm_class/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="623">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
@@ -172,8 +45,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="450" />
-    <option name="y" value="24" />
+    <option name="x" value="696" />
     <option name="width" value="1195" />
     <option name="height" value="1035" />
   </component>
@@ -182,7 +54,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,6 +75,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -330,15 +202,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="450" y="24" width="1195" height="1035" extended-state="0" />
+    <frame x="696" y="0" width="1195" height="1035" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.37424374" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37424374" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
@@ -346,6 +214,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -371,9 +243,7 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm_practice/print.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm_practice/print.py" />
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -383,15 +253,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm_class/A6_workshop_회문2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="32" column="55" lean-forward="true" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+        <state relative-caret-position="608">
+          <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm_class/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="623">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
