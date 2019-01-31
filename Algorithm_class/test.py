@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Point:
     def __init__(self, x, y):
         self.x = x
@@ -48,3 +49,7 @@ F(1,2)
 F(1)
 
 
+=======
+for n in range(1,11):
+    print(2**n-1 )
+>>>>>>> 29697f04b1e3d92fe9ab82e1b94b49b87cf2d61f

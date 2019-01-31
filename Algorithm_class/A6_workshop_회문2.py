@@ -22,40 +22,22 @@ def answer():
         arr.append(list(input()))
 
 
-    # 가로를 탐색
+    # 가로 세로 함께 탐색
     for i in range(100):
+        length = 100 #100길이 부터 펠린드롬이 있는지 확인
         flag = 0
-        while flag == 0:
-            rMax = 100
-            j = 0
-            # 한칸씩 뒤로 가면서  pelindrome 검사
-            while j + rMax <= 100 and j < 100 :
-                if find_pelindrome(arr[i][j:j + rMax]):
-                    flag = 1
-                    if rMax > long:
-                        long = rMax
-                    break
-                rMax -= 1
-                j += 1
-
-
-    # 세로를 탐색
-    for n in range(100):
-        tmp = []
-        for m in range(100):
-            tmp.append(arr[m][n])
-
-        flag = 0
-        while flag == 0:
-            cMax = 100
-            t = 0
-                while t + cMax <= 100 and t < 100:
-                    if find_pelindrome(tmp[t:t+cMax]):
-                        flag =1
-                        if cMax > long:
-                            long = cMax
+        # 회문을 찾지 않았고 탐색 길이가 찾아진 길이 보다 길때만 탐색
+        while flag == 0 and length > long:
+            for j in range(100):
+                if j + length <= 100 :
+                    if find_pelindrome(arr[i][j:j+length]) or find_pelindrome([arr[v][i] for v in range(j,j+length)]):
+                        flag = 1
+                        if long < length:
+                            long = length
                         break
-                    cMax -= 1
+                else:
+                    length -= 1
+                    break
     return long
 
 T = 10
