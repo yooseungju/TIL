@@ -5,117 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e8139b0-4a45-4b08-a50f-5553203984ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_class/print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm_class/.idea/Algorithm_class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class/.idea/Algorithm_class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm_class/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithm_class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithm_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm_practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/01-Python.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/boxoﬃce.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20010291jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20168773jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20170513jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20170658jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20174981jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20175547jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20176251jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20176814jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20177538jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20177552jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20178825jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20179006jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20179230jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20180290jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20180523jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20181171jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20181404jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20181905jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20182082jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20182421jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20182669jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20182693jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20182935jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20182966jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20183007jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20183050jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20183073jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20183238jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20183375jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20183479jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20183745jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20183785jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20183915jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20184105jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20184187jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20184481jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20184574jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20185485jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20186281jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20186822jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20189463jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20189843jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/images/20189869jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/movie.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/movie_naver.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/project_01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/Project_01_190118/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/01_layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/01_layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/02-movie.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/02_WEB_guide.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/02_movie.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/03_detail_view.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/03_detail_view.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20176251-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20176251-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20176251-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20176251.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20180290-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20180290-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20180290-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20180290.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20182544-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20182544-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20182544-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20182544.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20184105-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20184105-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20184105-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20184105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20186324-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20186324-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20186324-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20186324.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20189463-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20189463-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20189463-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/20189463.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/assets/popcorn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/project_02/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/03_workshop&amp;HW.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/06_Workshop&amp;HW.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/07_workshop&amp;HW.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/08_workshop&amp;HW.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/D01-S.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/D01.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/D09_HW.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/D09_workshop.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/D10_HW.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/D10_Workshop.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/D11_HW.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/D11_workshap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/D12 _workshop.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/D12_HW.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/HW_02.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../workshop/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree_BinarySearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree_BinarySearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/slide/Slide_08_OOP_intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python/slide/Slide_08_OOP_intro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/slide/Slide_09_OOP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python/slide/Slide_09_OOP.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,11 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tree_BinarySearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="242">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tree_subTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -152,19 +65,19 @@
         <option value="$PROJECT_DIR$/Tree.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/../Algorithm_class/A6_글자수.py" />
-        <option value="$PROJECT_DIR$/input.txt" />
         <option value="$PROJECT_DIR$/Tree_subTree.py" />
-        <option value="$PROJECT_DIR$/Tree_BinarySearch.py" />
         <option value="$PROJECT_DIR$/../Algorithm_class/A6_workshop_회문2.py" />
         <option value="$PROJECT_DIR$/print.py" />
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/Tree_BinarySearch.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="338" />
-    <option name="y" value="4" />
+    <option name="x" value="9" />
+    <option name="y" value="52" />
     <option name="width" value="1406" />
-    <option name="height" value="1035" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -172,7 +85,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,6 +96,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.print">
+  <component name="RunManager" selected="Python.Tree_BinarySearch">
     <configuration name="Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,6 +137,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Tree_BinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tree_BinarySearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="print" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,7 +165,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\student\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\YSJ\AppData\Local\Programs\Python\Python36\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -266,10 +200,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.print" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.Tree" />
+      <item itemvalue="Python.Tree_BinarySearch" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.print" />
+        <item itemvalue="Python.Tree_BinarySearch" />
         <item itemvalue="Python.Tree" />
+        <item itemvalue="Python.print" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -288,27 +229,45 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="338" y="4" width="1406" height="1035" extended-state="0" />
-    <editor active="true" />
+    <frame x="9" y="52" width="1406" height="920" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14400585" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14400585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49936628" weight="0.317662" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39838493" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006337" side_tool="true" weight="0.32839838" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14400585" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49936628" visible="true" weight="0.317662" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39838493" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006337" side_tool="true" weight="0.32839838" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Algorithm_class/A6_workshop_회문2.py">
@@ -325,20 +284,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/print.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/print.py" />
     <entry file="file://$PROJECT_DIR$/z_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -348,15 +294,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tree_subTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        <state>
+          <caret selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tree_BinarySearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="242">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
