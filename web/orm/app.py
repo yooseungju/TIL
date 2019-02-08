@@ -53,7 +53,7 @@ def update(id):
     user.username = username
     user.email = email
     db.session.commit()
-    return redirect(url_for('index'))
+    return redirect(url_for('index', id=id))
     
     
     
