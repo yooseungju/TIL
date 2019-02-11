@@ -11,12 +11,13 @@ def heap(tree):
             tree[node], tree[parent] = tree[parent], tree[node]
         else:
             break
-        node //= 2
+        node = parent
     return tree
 
 
 def answer():
     l = int(input())
+    ans = 0
     tree = [0]
 
     for i in list(map(int, input().split())):
@@ -26,11 +27,10 @@ def answer():
 
 
 
-    ans = 0
-
-    while l > 1:
-        l //= 2
-        ans += tree[l]
+    index = len(tree)-1
+    while index > 1:
+        index //= 2
+        ans += tree[index]
 
     return ans
 
