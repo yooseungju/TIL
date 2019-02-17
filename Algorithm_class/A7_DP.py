@@ -13,9 +13,17 @@ def fibo2(n):
 
     return f[n]
 
+def f(n):
+    global factorial
+    if n >= len(factorial):
+        for i in range(2, n+1):
+            factorial.append(factorial[i-1]*i)
+
+    return factorial[n]
+
+factorial = [0,1]
 
 
 memo = [0,1]
 
-print(fibo1(5))
-print(fibo2(5))
+print(f(5))
