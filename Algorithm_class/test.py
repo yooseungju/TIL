@@ -1,10 +1,10 @@
-temp = [1,2,1,2,1,1,1,1]
-count = 0
+def win(x,y):
+    if x + 1 == y or(x == 3 and y ==1):
+        return y
+    else:
+        return x
 
-if len(temp) > 2:
-    for i in range(0, len(temp) - 1 ):
-        print(i)
-        if temp[i:i + 2] == [1, 2]:
-            count += 1
 
-print(count)
+x, y = map(int,input().split())
+
+print(win(x, y))

@@ -1,23 +1,23 @@
-#
-# arr  = [[1,1,1,1,1], [1,0,0,0,1], [1,0,0,0,1], [1,0,0,0,1], [1,1,1,1,1]]
-#
-#
-# result = 0
-# dx = [0,0,-1,1]
-# dy = [-1,1,0,0]
-#
-# for i in range(len(arr)):
-#     for j in range(len(arr[i])):
-#         for m in range(4):
-#             if j + dx[m] < 0 or i + dy[m] < 0:
-#                 continue
-#             elif j + dx[m] >= len(arr) or i + dy[m] >= len(arr):
-#                 continue
-#             else:
-#                 r = abs(arr[i][j] - arr[i+dy[m]][j+dx[m]])
-#                 result += r
-#
-# print(result)
+
+arr  = [[1,1,1,1,1], [1,0,0,0,1], [1,0,0,0,1], [1,0,0,0,1], [1,1,1,1,1]]
+
+
+result = 0
+dx = [0,0,-1,1]
+dy = [-1,1,0,0]
+
+for i in range(len(arr)):
+    for j in range(len(arr[i])):
+        for m in range(4):
+            if j + dx[m] < 0 or i + dy[m] < 0:
+                continue
+            elif j + dx[m] >= len(arr) or i + dy[m] >= len(arr):
+                continue
+            else:
+                r = abs(arr[i][j] - arr[i+dy[m]][j+dx[m]])
+                result += r
+
+print(result)
 #
 #
 #
@@ -33,19 +33,19 @@
 #             print(bit)
 #
 # 부분집합 만들기  -  2
-arr = [1,2,3]
-n = len(arr)
-
-for i in range(1<<n):
-    arr2 = []
-    for j in range(n+1):
-        if i&(i<<j):
-            print(arr[j], end=",")
-            arr2.append(arr[j])
-
-
-    print()
-print()
+# arr = [1,2,3]
+# n = len(arr)
+#
+# for i in range(1<<n):
+#     arr2 = []
+#     for j in range(n+1):
+#         if i&(i<<j):
+#             print(arr[j], end=",")
+#             arr2.append(arr[j])
+#
+#
+#     print()
+# print()
 
 
 

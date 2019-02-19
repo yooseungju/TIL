@@ -6,6 +6,10 @@ sys.stdin = open("input.txt")
 def subset(N, K):
     arr = range(1,13)
     result = 0
+
+
+
+
     for i in range(1, 1<<len(arr)):
         sum = 0
         cnt = 0
