@@ -7,7 +7,7 @@ di = [0,0,0,0]
 
 
 
-def backtraking(sum, n, k):
+def backtraking(n, k):
     global min
     global cores
     global matrix
@@ -16,19 +16,24 @@ def backtraking(sum, n, k):
     di = [0,0,-1,1]
     dj = [-1,1,0,0]
 
-    for i in range(1,n):
-        for j in range(1,n):
-            if matrix[i][j] == 1:
-                for m in range(4):
-                    if matrix[i+di[m]][j+dj[m]] == 0:
+    if n == k:
+        if min  > sum:
+            min = sum
 
-
-
-
-
-
-
-
+    else:
+        for core in cores:
+            # 좌
+            if core[1] != cores[n][1]:
+                cnt += 1
+            # 우
+            if core[1] != cores[n][1] and core[0] > cores[n][0]:
+                cnt += 1
+            # 상
+            if core[1] != cores[n][1] and core[0] > cores[n][0]:
+                cnt += 1
+            # 하
+            if core[1] != cores[n][1] and core[0] > cores[n][0]:
+                cnt += 1
 
 
 
@@ -43,7 +48,12 @@ for tc in range(T):
     min = 100
     cores = []
     visited = [0] * len(cores)
+    for i in range(1,num-1):
+        for j in range(1,num-1):
+            if matrix[i][j] == 1:
+                cores.append([i,j])
 
 
+    print(cores)
 
     print(f'{tc+1} {min}')
