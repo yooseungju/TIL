@@ -1,10 +1,4 @@
-def win(x,y):
-    if x + 1 == y or(x == 3 and y ==1):
-        return y
-    else:
-        return x
+M = [[0,0,0],[1,0,0],[0,0,0]]
 
-
-x, y = map(int,input().split())
-
-print(win(x, y))
+if 1 in M:
+    print(M)
