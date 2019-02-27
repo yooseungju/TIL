@@ -6,7 +6,6 @@ k = 0
 n = 4
 
 
-
 def subset(bit, k, input):
     k += 1
     if k == n:
