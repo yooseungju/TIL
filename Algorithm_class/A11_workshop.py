@@ -4,9 +4,6 @@ sys.stdin = open('input.txt')
 T = int(input())
 
 def insert(result, row_col):
-
-
-
     if not result:
         result.append(row_col[0])
         result.append(row_col[1])
@@ -26,16 +23,9 @@ def insert(result, row_col):
                     result.insert(i+2, row_col[0])
                 return result
 
-
-
         result.append(row_col[0])
         result.append(row_col[1])
     return result
-
-
-
-
-
 
 
 
@@ -97,7 +87,6 @@ def ans():
 
 
     return len(result)//2, result
-
 
 
 

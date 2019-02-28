@@ -11,7 +11,6 @@ for i in range(0,len(temp),2):
     G[temp[i]][temp[i+1]] = 1
     G[temp[i+1]][temp[i]] = 1
 
-
 for i in G:
     print(i)
 
@@ -21,8 +20,5 @@ def dfs(G, n):
     for i in range(8):
         if G[n][i] != 0 and visited[i] == 0:
             dfs(G, i)
-
-
-
 
 print(dfs(G,1))

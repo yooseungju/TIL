@@ -31,14 +31,14 @@
         <div class="square col-xl-2 col-lg-3 col-md-4 col-sm-6 col-12 "></div>
 </div>
 ```
-- col-xl-2 : container width >= xl 일때 size는 12/2의 크기이다.
+- col-xl-2 : container width >= xl 일때 size는 12중 2를 차지한다.
 
-- col-lg-3: container width >= lg 일때 size는 12/3의 크기이다.
-- col-md-4: container width >= md 일때 size는 12/4의 크기이다.
+- col-lg-3: container width >= lg 일때 size는 12중 3을 차지한다.
+- col-md-4: container width >= md 일때 size는 12 중 4를 차지한다.
 
-- col-sm-6: container width >= sm 일때 size는 12/6의 크기이다.
+- col-sm-6: container width >= sm 일때 size는 12중 6을 차지한다.
 
-- col-12: container width <= sm 일때 size는 12/2의 크기이다.
+- col-12: container width <= sm 일때 size는 12를 모두 차지한다.
 
 ## 2. components
 #### 1.alerts
@@ -52,6 +52,16 @@
 flexbox 를 이용하기위해 부모요소에  **display: flex;** 를 적용해야한다.
 
 #### 1. flex-direction
+
+```html
+<div class="d-flex flex-(row or column)">
+  <div class="p-2">Flex item 1</div>
+  <div class="p-2">Flex item 2</div>
+  <div class="p-2">Flex item 3</div>
+</div>
+```
+
+
 
 요소들의 정렬방향축을 결정한다.
 
@@ -103,6 +113,14 @@ flexbox 두개의 교차축이 존재한다.  flex-direction을 이용하여 정
 
 #### 3. align-items
 
+```html
+<div class="d-flex align-items-start">...</div>
+<div class="d-flex align-items-end">...</div>
+<div class="d-flex align-items-center">...</div>
+<div class="d-flex align-items-baseline">...</div>
+<div class="d-flex align-items-stretch">...</div>
+```
+
 flex-direction의 주축을 따라 정렬된 flex요소의 수직 정렬 방식을 결정한다.
 
 `주축이 수평이면 수직, 주축이 수직이면 수평`
@@ -134,15 +152,6 @@ flex-direction의 주축을 따라 정렬된 flex요소의 수직 정렬 방식�
         < 주축이 column일때 >
     </h5>
 </center>
-
-
-<center>
-    <h5>
-        < 주축이 column일때 >
-    </h5>
-</center>
-
-
 |                          flex-start                          |                           flex-end                           |                           stretch                            |                            center                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src=.\flex_images\align_items_flex_start_col.PNG width=700> | <img src=.\flex_images\align_items_flex_end_col.PNG width=700> | <img src=.\flex_images\align_items_stretch_col.PNG width=700> | <img src=.\flex_images\align_items_center_col.PNG width=700> |
@@ -155,6 +164,12 @@ flex-direction의 주축을 따라 정렬된 flex요소의 수직 정렬 방식�
 
 
 #### 4. justify-content
+
+```html
+<div class="d-flex justify-content-(  )>...</div>
+```
+
+
 
 flex-direction의 주축을 따라 정렬된 flex요소의 수평 정렬 방식을 결정한다.
 
