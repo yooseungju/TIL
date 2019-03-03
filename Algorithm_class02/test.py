@@ -1,8 +1,5 @@
+a = [5,4,3,2,1]
+N =5
 
-for j in range(10):
-    for i in range(10):
-        if i == 5:
-            continue
-        if i == 6:
-            break
-    print(j, 'break 나옴')
+for i in range(N-1,-1,-1):
+    print(i)
