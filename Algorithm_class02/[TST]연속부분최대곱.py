@@ -1,25 +1,20 @@
 import sys
-sys.stdin  = open('input.txt')
+sys.stdin = open('input.txt')
 
+def n():
+    l = []
+    N = int(input())
 
-N = int(input())
-
-l = [float(input()) for _ in range(N)]
-
-Max_list = []
-
-for j in range(N-1):
-    tmp = []
-    for i in range(j, N):
-        if not tmp:
-            tmp.append(l[i])
+    for _ in range(N):
+        t = float(input())
+        if l == []:
+            l.append(t)
+        elif l[-1]*t > t:
+            l.append(l[-1]*t)
         else:
-            tmp.append(tmp[-1]*l[i])
+            l.append(t)
+    print(l)
 
-    if len(tmp)>1:
-        Max_list.append(max(tmp))
-    else:
-        Max_list.append(tmp[len(tmp)-1])
+    return max(l)
 
-
-print(round(max(Max_list), 3))
+print('%0.3f'%n())
