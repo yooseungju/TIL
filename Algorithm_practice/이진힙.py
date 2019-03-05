@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input.txt')
+sys.stdin = open('이진힙_input.txt')
 
 def heap(tree):
     #자리 찾아 가기
@@ -24,8 +24,7 @@ def answer():
         #가장 끝에 값 추가
         tree.append(i)
         tree = heap(tree)
-
-
+    print(tree)
 
     index = len(tree)-1
     while index > 1:
@@ -37,4 +36,4 @@ def answer():
 T = int(input())
 
 for tc in range(T):
-    print(f'#{tc+1} {answer()}')
+    print("#{} {}".format(tc+1, answer()))

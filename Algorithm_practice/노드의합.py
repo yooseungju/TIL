@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("input.txt")
+sys.stdin = open("노드의합_input.txt")
 
 
 T = int(input())

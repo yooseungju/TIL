@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("input.txt")
+sys.stdin = open("subtree_input.txt")
 
 T = int(input())
 
