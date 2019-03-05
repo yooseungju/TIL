@@ -6,8 +6,22 @@ N =int()
 M = [[0 for _ in range(N)] for _ in range(N)]
 value = 1
 i = 0
-j = 0
-
+S = 1
 while i < N:
-    while j < N:
-        M[i][j]
+    for j in range(N)
+        M[i][j] = value
+        value += 1
+        j += 1
+
+    if while j > 0:
+            M[i][j] = value
+            value += 1
+            j -= 1
+
+
+
+
+
+
+
+
