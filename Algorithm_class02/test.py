@@ -1,3 +1,2 @@
-a = [[1,2,3],[4,5,6],[7,8,9]]
-
-print(list(map(list, zip(*a))))
+student_tuples = [('john', 'A', 15),('jane', 'B', 12),('dave', 'B', 10)]
+print(sorted(student_tuples, key=lambda student: student[2]))
