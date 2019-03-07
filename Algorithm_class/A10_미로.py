@@ -1,9 +1,10 @@
 import sys
-sys.stdin = open('input_미로.txt')
+sys.stdin = open('input.txt')
 
-T = int(input())
+T = 10
 
 def find_2(maze):
+    global size
     for x in range(size):
         for y in range(size):
             if maze[x][y] == '2':
@@ -28,12 +29,12 @@ def path(i , j):
                 path(i+dx[m], j+dy[m])
 
 
-for tc in range(T):
-    size = int(input())
+for _ in range(T):
+    size = 16
+    tc = input()
     maze = [list(input()) for _ in range(size)]
-
     i, j = find_2(maze)
 
     flag = 0
     path(i, j)
-    print(f'#{tc+1} {flag}')
+    print(f'#{tc} {flag}')

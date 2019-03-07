@@ -6,11 +6,9 @@ T = 10
 
 def BFS(G, S):
     q = []
-    result = []
     visited = [0]*(100+1)
     q.append(S)
     visited[S] = 1
-    result = []
 
 
     while len(q) != 0:

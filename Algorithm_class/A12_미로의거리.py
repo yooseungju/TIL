@@ -20,7 +20,12 @@ def BFS(G, i, j, SIZE):
                     visited[t[0]+di[m]][t[1]+dj[m]] = visited[t[0]][t[1]] + 1
                 elif G[t[0]+di[m]][t[1]+dj[m]] == '3' and visited[t[0]+di[m]][t[1]+dj[m]] == 0:
                     visited[t[0] + di[m]][t[1] + dj[m]] = visited[t[0]][t[1]] + 1
-                    return visited[t[0]][t[1]] -1
+                    for i in range(SIZE):
+                        for j in range(SIZE):
+                            print(visited[i][j], end=' ')
+                        print()
+
+                    return visited[t[0]][t[1]] - 1
     return 0
 
 
