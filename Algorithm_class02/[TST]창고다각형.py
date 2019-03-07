@@ -1,29 +1,53 @@
 import sys
 sys.stdin = open('input.txt')
 
-
-def area(pre, pivot, post):
-    count = 0
-    Max = 0
-    global M
-    index = 0
-    while index < pivot[0]:
-        for m in M:
-            
+SIZE = 1001
+N =  int(input())
 
 
+roof = [0] * SIZE
+Max = 0
+Max_idx = 0
+for _ in range(N):
+    L , H = map(int, input().split())
+    roof[L] = H
+    if Max < H:
+        Max = H
+        Max_idx = L
 
-N = int(input())
-M = sorted([list(map(int, input().split())) for _ in range(N)], key=lambda m: m[0])
+area = 0
+index = 0
+pre = 0
+
+while index < Max_idx:
+    if roof[index] > pre:
+        pre = roof[index]
+    area += pre
+    index += 1
 
 
-pre = M[0]
-pivot = max(M , key = lambda m:m[1])[:]
-post = M[-1][:]
+
+index= SIZE -1
+pre = 0
+while index >= Max_idx:
+    if roof[index] > pre:
+        pre = roof[index]
+    area += pre
+    index -= 1
+
+print(area)
 
 
 
-print(area(pre, pivot, post))
+
+
+
+
+
+
+
+
+
 
 
 
