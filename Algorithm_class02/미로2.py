@@ -8,41 +8,41 @@ def find_start(M):
             if M[i][j] == '2':
                 return i,j
 
-# def maze(i, j):
-#     global M, flag
-#     di = [0, 0, -1, 1]
-#     dj = [-1, 1, 0, 0]
-#
-#     if flag == 1:
-#         return
-#
-#     else:
-#         if M[i][j] == '3':
-#             flag = 1
-#         else:
-#             for m in range(4):
-#                 if M[s[0]+di[m]][s[1]+dj[m]] == '0' or M[s[0]+di[m]][s[1]+dj[m]] == '3':
-#                     M[i][j] = '1'
-#                     maze(i+di[m],j+dj[m])
+def maze(i, j):
+    global M, flag
+    di = [0, 0, -1, 1]
+    dj = [-1, 1, 0, 0]
 
-# def maze(i, j):
-#     global M
-#     di = [0, 0, -1, 1]
-#     dj = [-1, 1, 0, 0]
-#
-#     stack = []
-#     stack.append([i,j])
-#
-#     while len(stack) > 0:
-#         s = stack.pop(-1)
-#
-#         if M[s[0]][s[1]] == '3':
-#             return 1
-#         else:
-#             for m in range(4):
-#                 if M[s[0]+di[m]][s[1]+dj[m]] == '0' or M[s[0]+di[m]][s[1]+dj[m]] == '3':
-#                     M[s[0]][s[1]] = '2'
-#                     stack.append([s[0] + di[m], s[1]+dj[m]])
+    if flag == 1:
+        return
+
+    else:
+        if M[i][j] == '3':
+            flag = 1
+        else:
+            for m in range(4):
+                if M[s[0]+di[m]][s[1]+dj[m]] == '0' or M[s[0]+di[m]][s[1]+dj[m]] == '3':
+                    M[i][j] = '1'
+                    maze(i+di[m],j+dj[m])
+
+def maze(i, j):
+    global M
+    di = [0, 0, -1, 1]
+    dj = [-1, 1, 0, 0]
+
+    stack = []
+    stack.append([i,j])
+
+    while len(stack) > 0:
+        s = stack.pop(-1)
+
+        if M[s[0]][s[1]] == '3':
+            return 1
+        else:
+            for m in range(4):
+                if M[s[0]+di[m]][s[1]+dj[m]] == '0' or M[s[0]+di[m]][s[1]+dj[m]] == '3':
+                    M[s[0]][s[1]] = '2'
+                    stack.append([s[0] + di[m], s[1]+dj[m]])
 
 def maze(i, j):
     global M, SIZE
@@ -60,7 +60,7 @@ def maze(i, j):
         if M[s[0]][s[1]] == '3':
             return visited[s[0]][s[1]] -2
 
-        
+
 
         else:
             for m in range(4):
