@@ -18,7 +18,6 @@ def search(n):
         elif tree[n][0] == '*':
             return a * b
 
-
 for tc in range(T):
     N = int(input())
     tree = {x:[] for x in range(N+1)}
