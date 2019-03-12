@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input_배열최소합.txt')
+sys.stdin = open('input.txt')
 
 T = int(input())
 
@@ -8,7 +8,6 @@ def permutaion(sum, k, n):
     global min
     global check
     global matrix
-
 
     if k == n:
         if min > sum:
@@ -35,6 +34,6 @@ for tc in range(T):
     matrix = [list(map(int, input().split())) for _ in range(n)]
     permutaion(sum, 0, n)
 
-    print(f'#{tc+1} {min}')
+    print('#{} {}'.format(tc+1, min))
 
 
