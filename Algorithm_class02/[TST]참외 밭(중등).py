@@ -3,33 +3,23 @@ sys.stdin = open('input.txt')
 
 n = int(input())
 
-row = []
-col = []
+direction = []
+length = []
 
 for _ in range(6):
-    d, l = map(int,input().split())
-    if d == 3 or d == 4:
-        col.append(l)
-    else:
-        row.append(l)
+    d, w = map(int, input().split())
+    direction.append(d)
+    length.append(w)
 
+direction *= 2
+length *= 2
 
+h = [[1,3],[4,3],[2,4],[3,2]]
 
-ri = row.index(max(row))
-
-ci = col.index(max(col))-2
-
-if ri == 3:
-    ri = 0
-if ci ==3:
-    ci = 0
-
-
-
-print(row)
-print(col)
-
-print(ri)
-print(ci)
-
-print(n*((max(row)*max(col)-(row[ri]*col[ci]))))
+for i in range(len(direction)):
+    if direction[i:i+2] in h:
+        small = length[i] * length[i+1]
+        big1 = length[i+3]
+        big2 = length[i+4]
+        print(n*(big1*big2-small))
+        break
