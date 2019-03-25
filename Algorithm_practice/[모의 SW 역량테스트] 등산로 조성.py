@@ -1,50 +1,36 @@
+import copy
 import sys
 sys.stdin = open('input.txt')
 
 
 
-def solution_dfs(i,j,flag):
+def solution_dfs(i, j, flag, cnt ,M):
     #flag 산을 깎았는지 안깍았는지
 
-    global M, N, K
+    global N, K, Max_length
     dj = [-1, 1, 0, 0]
     di = [0, 0, -1, 1]
-    cnt = 0
-    flag = 0
-    Stack = []
+    c = 0
+    for m in range(4):
+        if i + di[m] >= 0 and i + di[m] < N and j + dj[m] >= 0 and  j + dj[m] < N:
+            tmp_M = copy.deepcopy(M)
+            if M[i+di[m]][j+dj[m]] < M[i][j]:
+                tmp_M[i][j] = 100
+                solution_dfs(i + di[m], j + dj[m], flag, cnt+1, tmp_M)
+            elif flag == 0:
+                for k in range(1,K+1):
+                    if M[i+di[m]][j+dj[m]] - k < M[i][j]:
+                        tmp_M[i][j] = 100
+                        tmp_M[i + di[m]][j + dj[m]] -= k
+                        solution_dfs(i + di[m], j + dj[m], 1, cnt+1, tmp_M)
 
-    Stack.append([i,j])
-
-    cut = []
-    while len(Stack) > 0:
-        s = Stack.pop(-1)
-        for m in range(4):
-            if s[0] + di[m] >= 0 and s[0] + di[m] < N and s[1] + dj[m] >= 0 and  s[1] + dj[m] < N:
-                if M[s[0]+di[m]][s[1]+dj[m]] < M[s[0]][s[1]]:
-                    Stack.append(M[s[0]+di[m]][s[1]+dj[m]])
-                    cnt += 1
-
-                elif flag == 0 and M[s[0]+di[m]][s[1]+dj[m]] - K < M[s[0]][s[1]]:
-                    Stack.append(M[s[0] + di[m]][s[1] + dj[m]])
-                    M[s[0] + di[m]][s[1] + dj[m]] -= K
-                    cut = [s[0] + di[m], s[1] + dj[m]]
-                    flag = 1
-            if len(cut) > 0 and [s[0] , s[1]]  == cut[-1]:
-                M[s[0]][s[1]] += K
-                cut.pop()
-
-
-
-
-
-
-
-
+    if cnt > Max_length:
+        Max_length = cnt
 
 
 T = int(input())
 for tc in range(T):
-    N , K = map(int, input().split())
+    N, K = map(int, input().split())
     M = [list(map(int, input().split())) for _ in range(N)]
 
     Max = 0
@@ -52,11 +38,10 @@ for tc in range(T):
         for j in range(N):
             if M[i][j] > Max:
                 Max = M[i][j]
+
     height = [[i,j]for i in range(N) for j in range(N) if M[i][j] ==  Max]
 
-
+    Max_length = 0
     for h in height:
-        solution_dfs(h, flag)
-
-
-    print('#{} {}'.format(tc+1, solution()))
+        solution_dfs(h[0],h[1], 0, 1, M)
+    print('#{} {}'.format(tc+1, Max_length))
