@@ -1,34 +1,39 @@
 import sys
+import copy
 sys.stdin = open('input.txt')
 
 T = int(input())
 
 
 
-def solution(i, j, flag, length):
-    global M, K, N
-    print(M[i][j])
-
-
+def solution(i, j, flag, length, M):
+    global K, N, Max
+    print(i,j , M[i][j], 'length', length)
 
     dj = [-1, 1, 0, 0]
     di = [0, 0, -1, 1]
+
 
     cnt = 0
 
     for d in range(4):
         if i + di[d] >= 0 and i+di[d] < N and j + dj[d] >= 0 and j+dj[d] < N:
             if M[i+di[d]][j+dj[d]] <  M[i][j]:
-                solution(i+di[d], j+dj[d], flag, length+1)
+                solution(i+di[d], j+dj[d], flag, length+1,M)
             elif not flag:
-                if M[i+di[d]][j+dj[d]] <  M[i][j] - K:
-                    solution(i+di[d], j+dj[d], 1, length+1)
-        else:
-            cnt += 1
-            if cnt == 4:
-                return print(length)
+                if M[i+di[d]][j+dj[d]] - K <  M[i][j]:
+                    tmp_M = copy.deepcopy(M)
+                    tmp_M[i+di[d]][j+dj[d]] = M[i+di[d]][j+dj[d]] - K
+                    solution(i+di[d], j+dj[d], 1, length+1, tmp_M)
+                else: cnt += 1
+            else:
+                cnt += 1
 
 
+    if cnt == 3:
+        if Max < length:
+            Max = length
+        return
 
 
 
@@ -45,9 +50,12 @@ for tc in range(T):
 
     top_list = [[i, j] for i in range(N) for j in range(N) if top == M[i][j]]
 
-    # for t in top_list:
-    #     solution(t[0],t[1], 0, 1)
+    Max = 0
 
-    solution(0, 0, 0, 1)
+    for t in top_list:
+        solution(t[0],t[1], 0, 1, M)
+        print('------------------------')
+
+    print('#{} {}'.format(tc+1, Max))
 
 
