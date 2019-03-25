@@ -10,23 +10,25 @@ def solution_dfs(i, j, flag, cnt ,M):
     global N, K, Max_length
     dj = [-1, 1, 0, 0]
     di = [0, 0, -1, 1]
-    c = 0
     for m in range(4):
         if i + di[m] >= 0 and i + di[m] < N and j + dj[m] >= 0 and  j + dj[m] < N:
-            tmp_M = copy.deepcopy(M)
             if M[i+di[m]][j+dj[m]] < M[i][j]:
-                tmp_M[i][j] = 100
-                solution_dfs(i + di[m], j + dj[m], flag, cnt+1, tmp_M)
+                tmp = M[i][j]
+                M[i][j]  = 100
+                solution_dfs(i + di[m], j + dj[m], flag, cnt+1, M)
+                M[i][j] = tmp
             elif flag == 0:
                 for k in range(1,K+1):
                     if M[i+di[m]][j+dj[m]] - k < M[i][j]:
-                        tmp_M[i][j] = 100
-                        tmp_M[i + di[m]][j + dj[m]] -= k
-                        solution_dfs(i + di[m], j + dj[m], 1, cnt+1, tmp_M)
+                        tmp = M[i][j]
+                        M[i][j] = 100
+                        M[i + di[m]][j + dj[m]] -= k
+                        solution_dfs(i + di[m], j + dj[m], 1, cnt+1, M)
+                        M[i][j] = tmp
+                        M[i + di[m]][j + dj[m]] += k
 
     if cnt > Max_length:
         Max_length = cnt
-
 
 T = int(input())
 for tc in range(T):

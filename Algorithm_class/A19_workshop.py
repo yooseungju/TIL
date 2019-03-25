@@ -1,6 +1,6 @@
 import sys, datetime
 sys.stdin = open('input.txt')
-import copy
+
 
 def length(A,k):
     L = 0
@@ -20,7 +20,6 @@ def length(A,k):
     L += M[pre][1]
 
     return L
-
 def perm(k, n):
     global MIN, A
     if len(A[0:k]) > 2 and length(A,k) > MIN:
@@ -41,12 +40,10 @@ for tc in range(T):
     N = int(input())
     IN = list(map(int, input().split()))
     data = [[IN[(i*2)], IN[(i*2)+1]]for i in range(N+2)]
-
     A = [j for j in range(N+2)]
     MIN = float('inf')
     M = [[0 for _ in  range(N+2)] for _ in range(N+2)]
     perm(2,N+2)
-
 
     print('#{} {}'.format(tc+1, MIN))
 print(datetime.datetime.now() - start)
