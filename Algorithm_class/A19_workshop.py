@@ -41,9 +41,14 @@ for tc in range(T):
     IN = list(map(int, input().split()))
     data = [[IN[(i*2)], IN[(i*2)+1]]for i in range(N+2)]
     A = [j for j in range(N+2)]
-    MIN = float('inf')
+    MIN = 0x7fffffff
     M = [[0 for _ in  range(N+2)] for _ in range(N+2)]
+
     perm(2,N+2)
+
+
+    # for i in M:
+    #     print(i)
 
     print('#{} {}'.format(tc+1, MIN))
 print(datetime.datetime.now() - start)
