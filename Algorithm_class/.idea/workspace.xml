@@ -2,37 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a367c28-b840-4bb1-97b3-53c416e1fffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A20_최대상금_조성원.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithm_class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm_class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A20_최대상금.py" beforeDir="false" afterPath="$PROJECT_DIR$/A20_최대상금.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm_practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_practice/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/A20_최대상금_조성원.py">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="85">
-                    <caret line="5" selection-start-line="5" selection-end-line="36" selection-end-column="38" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -49,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/A20_최대상금.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -91,9 +67,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="48" />
-    <option name="width" value="808" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="50" />
+    <option name="width" value="806" />
     <option name="height" value="919" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -117,7 +93,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm_class02" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -283,13 +259,11 @@
     <list>
       <item itemvalue="Python.A20_베이버진게임" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.A20_최대상금" />
       <item itemvalue="Python.A20_최대상금_조성원" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.A20_최대상금_조성원" />
-        <item itemvalue="Python.A20_최대상금" />
         <item itemvalue="Python.A20_베이버진게임" />
         <item itemvalue="Python.test" />
       </list>
@@ -309,15 +283,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="0" width="808" height="919" extended-state="0" />
-    <editor active="true" />
+    <frame x="50" y="0" width="806" height="919" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.038961038" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0390625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2544529" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2544529" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -512,13 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A20_최대상금_input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -554,17 +520,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A20_최대상금.py">
+    <entry file="file://$PROJECT_DIR$/A20_최대상금_조성원.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        <state relative-caret-position="544">
+          <caret line="32" column="21" selection-start-line="32" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A20_최대상금_조성원.py">
+    <entry file="file://$PROJECT_DIR$/A20_최대상금_input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="36" selection-end-column="38" />
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A20_최대상금.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
         </state>
       </provider>
     </entry>
