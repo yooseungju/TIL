@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a367c28-b840-4bb1-97b3-53c416e1fffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/A20_베이버진게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A20_베이비진게임_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A20_전기카트.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A20_전기카트_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A20_최대상금.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A20_최대상금_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A20_최소합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A20_최소합_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A20_최소합체스.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A20_컨테이너운반.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A20_컨테이너운반_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A20_화물도크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A20_화물도크_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithm_class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm_class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A19_workshop.py" beforeDir="false" afterPath="$PROJECT_DIR$/A19_workshop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,32 +10,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/A19_workshop.py">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="361">
-                    <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-113120820">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -70,14 +35,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="14" />
+          <entry key="py" value="17" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="14" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
     </session>
@@ -94,19 +59,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/A20_최대상금.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-              <folding>
-                <marker date="1553590006337" expanded="true" signature="72:159" ph="..." />
-                <marker date="1553590006337" expanded="true" signature="292:707" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
@@ -152,10 +104,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="657" />
-    <option name="y" value="22" />
-    <option name="width" value="1236" />
-    <option name="height" value="996" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -163,7 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,6 +125,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.A20_최대상금">
+  <component name="RunManager" selected="Python.A20_베이버진게임">
     <configuration name="A20_베이버진게임" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_class" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -300,19 +251,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.A20_컨테이너운반" />
-      <item itemvalue="Python.A20_화물도크" />
       <item itemvalue="Python.A20_베이버진게임" />
-      <item itemvalue="Python.A20_최대상금" />
       <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.A20_최대상금" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.A20_베이버진게임" />
-        <item itemvalue="Python.A20_화물도크" />
-        <item itemvalue="Python.A20_컨테이너운반" />
       </list>
     </recent_temporary>
   </component>
@@ -330,9 +275,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="657" y="22" width="1236" height="996" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20450751" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26175213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -471,32 +417,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A19_workshop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/A20_최소합.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <marker date="1553565642779" expanded="true" signature="187:398" ph="..." />
-            <marker date="1553565642779" expanded="true" signature="187:415" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A20_최소합체스.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="37" />
-          <folding>
-            <marker date="1553563642173" expanded="true" signature="68:69" ph="..." />
-            <marker date="1553563642173" expanded="true" signature="147:384" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -524,16 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A20_컨테이너운반.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <marker date="1553575326439" expanded="true" signature="80:486" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/A20_컨테이너운반_input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -548,23 +462,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A20_화물도크.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding>
-            <marker date="1553576539898" expanded="true" signature="50:52" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A20_베이비진게임_input.txt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/A20_베이비진게임_input.txt.py" />
     <entry file="file://$PROJECT_DIR$/A20_베이비진게임_input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -582,10 +480,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/A19_workshop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        <state relative-caret-position="361">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A20_최소합체스.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="37" />
+          <folding>
+            <marker date="1553563642173" expanded="true" signature="68:69" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A20_컨테이너운반.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A20_화물도크.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <marker date="1553576539898" expanded="true" signature="50:52" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A20_최대상금.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <marker date="1553590006337" expanded="true" signature="72:159" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -596,14 +531,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A20_최대상금.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <marker date="1553590006337" expanded="true" signature="72:159" ph="..." />
-            <marker date="1553590006337" expanded="true" signature="292:707" ph="..." />
-          </folding>
+        <state relative-caret-position="76">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
