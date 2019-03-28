@@ -18,9 +18,7 @@ def solution(len_dummy, cnt):
         for i in range(len_dummy-1):
             for j in range(i+1, len_dummy):
                 dummy[i], dummy[j] = dummy[j], dummy[i]
-
                 solution(len_dummy, cnt+1)
-
                 dummy[i], dummy[j] = dummy[j], dummy[i]
 
 

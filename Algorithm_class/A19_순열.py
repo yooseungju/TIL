@@ -10,7 +10,6 @@ def perm(n, k):
     else:
         for i in range(k,n):
             a[i] , a[k] = a[k], a[i]
-
             perm(n, k+1)
             a[i] , a[k] = a[k], a[i]
 
