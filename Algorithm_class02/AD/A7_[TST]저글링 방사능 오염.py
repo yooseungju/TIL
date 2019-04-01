@@ -15,9 +15,6 @@ def BFS(s):
     Q.append(s)
 
     while len(Q)>0:
-        # for i in M:
-        #     print(i)
-        # print()
         q = Q.pop(0)
         cnt = 0
 
