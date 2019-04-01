@@ -15,10 +15,10 @@ def com(k ,n , Sum):
             ans = 'YES'
         return
     else:
-        chk[k] = 0
+        chk[k] = 1
         com(k+1, n, Sum+M[k])
         chk[k] = 0
-        com(k + 1, n, Sum)
+        com(k+1, n, Sum)
 
 
 T = int(input())

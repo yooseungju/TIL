@@ -28,7 +28,7 @@ for tc in range(T):
     N = int(N)
     dummy = list(dummy)
 
-    Me =[[0 for _ in range(1000000)] for _ in range(N+1)]
+    Me =[[0] *1000000 for _ in range(N+1)]
     Max = 0
     solution(len(dummy), 0)
     print('#{} {}'.format(tc+1, Max))

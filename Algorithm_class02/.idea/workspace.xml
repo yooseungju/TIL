@@ -5,78 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b2e84a4-8e6f-4d25-8508-f21278981a16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD/B2_[TST]주사위 던지기2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD/B3_[TST] 구슬 고르기3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD/B4_[TST] 최소의 합(s).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD/B5_[PY-TST]건물세우기(BASIC2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD/B6_[TST] 구슬 고르기1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD/B7_[TST] 더하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD/B8_[TST] 나무 자르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD/C0_[TST]장기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm_class/A19_순열.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class/A19_순열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_class/A21_사람 네트워크2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_class/A21_최소신장트리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AD/B7_[PY-TST] 로봇 과자 먹기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AD/B8_[TST]N QUEEN(BASIC).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AD/B9_[TST] 책꽂이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AD/C0_[TST]퍼킷.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AD/C1_[TST] 테이프 이어 붙이기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AD/C2_[TST]양팔저울(BASIC).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm_class/.idea/Algorithm_class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class/.idea/Algorithm_class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm_class/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithm_class/A20_최대상금.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class/A20_최대상금.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm_class/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1_최소 비용으로 포장 다시 하기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A2_숫자 찾기 (이진탐색).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A3_[TST]숫자 카운팅.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A4_[TST] 도약.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A6_[TST]미로 탈출 로봇.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7_[TST]저글링 방사능 오염.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A8_[PY-TST]토마토(고).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[PY-TST]회전 초밥(중).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TEST] 과수원.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TEST] 구슬 굴리기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TEST] 반나누기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TEST]도넛츠 합계.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TEST]비밀금고.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TEST]사냥꾼.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TEST]색종이배치.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TEST]원안의 마을.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TEST]초콜릿공장.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TEST]호수의 깊이.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST] Snake.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST] Snake2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]같은 모양찾기2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]같은모양찾기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]경비원.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]그릇.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]나는학급회장이다.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]달팽이사각형.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]덧셈(Plus).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]도약.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]마을위성사진.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]미로탈출 로봇중간 단계.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]배부른돼지.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]배열정리.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]빙고.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]색종이(중).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]색종이(초).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]소수의 개수와 최대 최소 구하기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]쇠막대기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]수열.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]숫자 맞추기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]숫자근.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]스파이 조직.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]시간외근무수당.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]연속부분최대곱.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]원안의사각형.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]월동준비.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]자리배정.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]전자레인지.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]줄세우기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]참외 밭(중등).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]창고다각형.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]폭탄돌리기.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[TST]회전.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/경비원_조성원.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/미로2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/반나누기2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/비밀금고.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/B7_[TST] 더하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/AD/B7_[TST] 더하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD/input.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,36 +31,37 @@
     <session id="1400793091">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="41" />
-          <entry key="txt" value="10" />
+          <entry key="py" value="58" />
+          <entry key="txt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Python" value="41" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Python" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="12791" />
-          <entry key="txt" value="165" />
+          <entry key="py" value="18625" />
+          <entry key="txt" value="177" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="166" />
-          <entry key="Python" value="12791" />
+          <entry key="PLAIN_TEXT" value="178" />
+          <entry key="Python" value="18625" />
         </counts>
       </usages-collector>
     </session>
@@ -125,27 +69,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AD/B8_[TST] 나무 자르기.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AD/C0_[TST]장기.py">
+        <entry file="file://$PROJECT_DIR$/AD/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-              <folding>
-                <marker date="1553762130302" expanded="true" signature="55:647" ph="..." />
-              </folding>
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AD/input.txt">
+        <entry file="file://$PROJECT_DIR$/AD/C1_[TST] 테이프 이어 붙이기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AD/C2_[TST]양팔저울(BASIC).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding>
+                <marker date="1554108933037" expanded="true" signature="66:165" ph="..." />
+                <marker date="1554108933037" expanded="true" signature="231:434" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -193,15 +142,27 @@
         <option value="$PROJECT_DIR$/AD/A8_[PY-TST]토마토(고).py" />
         <option value="$PROJECT_DIR$/C0_[TST]장기.py" />
         <option value="$PROJECT_DIR$/AD/C0_[TST]장기.py" />
-        <option value="$PROJECT_DIR$/AD/B7_[TST] 더하기.py" />
-        <option value="$PROJECT_DIR$/AD/input.txt" />
         <option value="$PROJECT_DIR$/AD/B8_[TST] 나무 자르기.py" />
+        <option value="$PROJECT_DIR$/반사경.txt" />
+        <option value="$PROJECT_DIR$/IM/조합.txt" />
+        <option value="$PROJECT_DIR$/조합.txt" />
+        <option value="$PROJECT_DIR$/반사경.py" />
+        <option value="$PROJECT_DIR$/조합.py" />
+        <option value="$PROJECT_DIR$/AD/B7_[TST] 더하기.py" />
+        <option value="$PROJECT_DIR$/B7_[PY-TST] 로봇 과자 먹기.py" />
+        <option value="$PROJECT_DIR$/AD/B7_[PY-TST] 로봇 과자 먹기.py" />
+        <option value="$PROJECT_DIR$/AD/B8_[TST]N QUEEN(BASIC).py" />
+        <option value="$PROJECT_DIR$/AD/B9_[TST] 책꽂이.py" />
+        <option value="$PROJECT_DIR$/AD/C0_[TST]퍼킷.py" />
+        <option value="$PROJECT_DIR$/AD/C1_[TST] 테이프 이어 붙이기.py" />
+        <option value="$PROJECT_DIR$/AD/input.txt" />
+        <option value="$PROJECT_DIR$/AD/C2_[TST]양팔저울(BASIC).py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="608" />
-    <option name="width" value="1319" />
+    <option name="x" value="567" />
+    <option name="width" value="1360" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -210,6 +171,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,11 +188,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm_class" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -250,8 +211,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.C0_[TST]장기 (1)">
-    <configuration name="B6_[TST] 구슬 고르기1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.C2_[TST]양팔저울(BASIC)">
+    <configuration name="B8_[TST]N QUEEN(BASIC)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_class02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,7 +224,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AD/B6_[TST] 구슬 고르기1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AD/B8_[TST]N QUEEN(BASIC).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="B7_[TST] 더하기 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="B9_[TST] 책꽂이" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_class02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,7 +245,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AD/B7_[TST] 더하기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AD/B9_[TST] 책꽂이.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,28 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="B7_[TST] 더하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm_class02" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\student\Desktop\seungju\TIL\Algorithm_class02\AD\B7_[TST] 더하기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="C0_[TST]장기 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="C0_[TST]퍼킷" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_class02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,7 +266,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AD/C0_[TST]장기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AD/C0_[TST]퍼킷.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="C0_[TST]장기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="C1_[TST] 테이프 이어 붙이기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_class02" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -343,11 +283,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AD" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\student\Desktop\seungju\TIL\Algorithm_class02\AD\C0_[TST]장기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AD/C1_[TST] 테이프 이어 붙이기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C2_[TST]양팔저울(BASIC)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm_class02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AD" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AD/C2_[TST]양팔저울(BASIC).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,19 +318,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.B6_[TST] 구슬 고르기1" />
-      <item itemvalue="Python.B7_[TST] 더하기" />
-      <item itemvalue="Python.B7_[TST] 더하기 (1)" />
-      <item itemvalue="Python.C0_[TST]장기" />
-      <item itemvalue="Python.C0_[TST]장기 (1)" />
+      <item itemvalue="Python.B8_[TST]N QUEEN(BASIC)" />
+      <item itemvalue="Python.B9_[TST] 책꽂이" />
+      <item itemvalue="Python.C0_[TST]퍼킷" />
+      <item itemvalue="Python.C1_[TST] 테이프 이어 붙이기" />
+      <item itemvalue="Python.C2_[TST]양팔저울(BASIC)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.C0_[TST]장기 (1)" />
-        <item itemvalue="Python.C0_[TST]장기" />
-        <item itemvalue="Python.B7_[TST] 더하기 (1)" />
-        <item itemvalue="Python.B7_[TST] 더하기" />
-        <item itemvalue="Python.B6_[TST] 구슬 고르기1" />
+        <item itemvalue="Python.C2_[TST]양팔저울(BASIC)" />
+        <item itemvalue="Python.C1_[TST] 테이프 이어 붙이기" />
+        <item itemvalue="Python.C0_[TST]퍼킷" />
+        <item itemvalue="Python.B9_[TST] 책꽂이" />
+        <item itemvalue="Python.B8_[TST]N QUEEN(BASIC)" />
       </list>
     </recent_temporary>
   </component>
@@ -387,9 +348,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="608" y="0" width="1319" height="1047" extended-state="0" />
+    <frame x="567" y="0" width="1360" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18759455" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39583334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26541764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -407,7 +387,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -430,19 +410,68 @@
           <line>6</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AD/B7_[TST] 더하기.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AD/B8_[TST]N QUEEN(BASIC).py</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AD/B9_[TST] 책꽂이.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AD/C0_[TST]퍼킷.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="M" language="Python" />
-        <watch expression="chk" language="Python" />
+        <watch expression="MIN" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
+        <expression-string>MIN</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>chk</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>closs_chk</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cnt</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dx</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dy</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -458,26 +487,6 @@
       </expression>
       <expression>
         <expression-string>lowwer</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>XY</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>upper</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>loo</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>dummy</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -528,16 +537,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c9c39dac06154/중복순열.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c9c4fb2115b32f/부분집합.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c9c39dac06154/중복순열.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BNZ.5c9c4fb2115b32f/부분집합.py" />
     <entry file="file://$PROJECT_DIR$/AD/B4_[TST] 최소의 합(s).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -549,34 +550,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AD/B3_[TST] 구슬 고르기3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="10" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="21" selection-end-column="10" />
-          <folding>
-            <marker date="1553750271872" expanded="true" signature="15:336" ph="..." />
-            <marker date="1553750271872" expanded="true" signature="269:270" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AD/B5_[PY-TST]건물세우기(BASIC2).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <marker date="1553752561653" expanded="true" signature="64:334" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AD/B6_[TST] 구슬 고르기1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <marker date="1553753994259" expanded="true" signature="57:238" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -587,29 +564,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AD/B7_[TST] 더하기.py">
+    <entry file="file://$PROJECT_DIR$/AD/C0_[TST]장기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state relative-caret-position="646">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IM/조합.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/조합.txt" />
+    <entry file="file://$PROJECT_DIR$/반사경.py" />
+    <entry file="file://$PROJECT_DIR$/조합.py" />
+    <entry file="file://$PROJECT_DIR$/반사경.txt" />
+    <entry file="file://$PROJECT_DIR$/AD/B3_[TST] 구슬 고르기3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="10" selection-start-line="20" selection-start-column="30" selection-end-line="21" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AD/B8_[TST] 나무 자르기.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AD/input.txt">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AD/C0_[TST]장기.py">
+    <entry file="file://$PROJECT_DIR$/AD/B8_[TST]N QUEEN(BASIC).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state relative-caret-position="121">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
-            <marker date="1553762130302" expanded="true" signature="55:647" ph="..." />
+            <marker date="1554084151980" expanded="true" signature="69:349" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/B9_[TST] 책꽂이.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1554086077839" expanded="true" signature="100:253" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/C0_[TST]퍼킷.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <marker date="1554100096667" expanded="true" signature="99:345" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/B7_[PY-TST] 로봇 과자 먹기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/B6_[TST] 구슬 고르기1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/B7_[TST] 더하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/C1_[TST] 테이프 이어 붙이기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/C2_[TST]양팔저울(BASIC).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <marker date="1554108933037" expanded="true" signature="66:165" ph="..." />
+            <marker date="1554108933037" expanded="true" signature="231:434" ph="..." />
           </folding>
         </state>
       </provider>
