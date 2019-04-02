@@ -29,18 +29,19 @@ def H(s,e):
             e = m+1
 
 
-
-
 N, M = map(int, input().split())
 print(N)
 tree = list(map(int, input().split()))
 tree.sort()
 
 MIN = 0xfffffff
-MIN_H = 0
-print(tree)
-print(H(0, max(tree)))
-print(cut(0,N-1,14))
 
+MIN_H = 0
+
+print(tree)
+
+print(H(0, max(tree)))
+
+print(cut(0,N-1,14))
 
 print(MIN_H)
