@@ -2,48 +2,40 @@ import sys
 sys.stdin = open('input.txt')
 
 
-# def perm(k, n, TIME):
-#     global MIN
-#     if TIME > MIN:
-#         return
-#
-#     if k == n:
-#         if MIN > TIME:
-#             MIN = TIME
-#         return
-#
-#     else:
-#         for i in range(N, k, -1):
-#             SUM = 0
-#             for j in range(k, i):
-#                 if M[k][j] == 0:
-#                     M[k][j] = M[k][j-1] + LIST[j]
-#
-#                 if  M[k][j] <= Max_l:
-#                     perm(j+1, n, TIME + time[j])
+def com(k, TIME, pre):
 
+    global MIN
 
-def binarySearch(s, e, t):
-    m = (s+e)//2
-    if s >=e:
+    if sum(len_list[pre:k:-1]) > Max_l:
+        return
+    if k < 0:
+        print(chk)
+        if MIN > TIME:
+            MIN = TIME
         return
     else:
-        SUM = 0
-        for i in range(e, m, -1):
-            SUM += LIST[i]
 
-
+        if k == N:
+            chk[k] = 1
+            com(k-1, TIME+time_list[k], k)
+        else:
+            chk[k] = 1
+            com(k-1, TIME+time_list[k], k)
+            chk[k] = 0
+            com(k-1, TIME, pre)
 
 
 MIN = 0xfffffff
-
 Max_l =  int(input())
 N = int(input())
-LIST =  list(map(int, input().split()))
-time = list(map(int, input().split()))
-
+len_list =  list(map(int, input().split()))
+time_list = list(map(int, input().split()))
 M = [[0] * N for _ in range(N)]
 
-time.append(0)
+time_list.append(0)
+chk = [0]*(N+1)
+
+
+com(N,0,0)
 
 print(MIN)

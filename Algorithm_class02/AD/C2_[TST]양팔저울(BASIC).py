@@ -6,11 +6,9 @@ def com(k, n, SUM):
 
     if flag:
         return
-
     if sum(tmp) - (SUM*2)  == 0:
         flag = True
         return
-
     if k == n-1:
         return
     else:
@@ -18,13 +16,10 @@ def com(k, n, SUM):
         com(k + 1, n, SUM)
 
 
-
 def power_set(k, n,b):
     global flag
-
     if flag:
         return
-
     if k == n:
         tmp.append(b)
         com(0, len(tmp),0)
@@ -46,16 +41,13 @@ bN = int(input())
 bi = list(map(int, input().split()))
 
 tmp = []
-
 for b in bi:
     flag = False
-
     if b in ci:
         flag = True
     else:
         ci.append(b)
         power_set(0, cN, b)
-
     if flag:
         print('Y', end = ' ')
     else:
