@@ -1,41 +1,38 @@
 import sys
-
 sys.stdin  = open('input.txt')
 
-
-def BFS(i, j):
-
+def BFS():
+    # 4방향 탐색
     dj = [-1,1,0,0]
     di = [0,0,-1,1]
-
-    Q = [[i,j,0]]
-    visited[i][i][0] = 1
-
-
-    while len(Q) > 0:
-        q = Q.pop(0)
-
-        if q[0] == N-1 and q[1] == M-1:
-            return visited[q[0]][q[1]][q[2]]
+    Q = [[0,0,0]]
+    visited[0][0][0] = 1
+    while Q:
+        x,y,z = Q.pop(0)
+        if x == N-1 and y == M-1:
+            return visited[x][y][z]
 
         for m in range(4):
-            if q[0]  + di[m] >= 0 and q[1] + dj[m] >=0 and q[0]  + di[m] < N and q[1]+dj[m]< M:
-                if G[q[0]  + di[m]][q[1] + dj[m]] == 0 and visited[q[0] + di[m]][q[1] +dj[m]][0] == 0:
-                    visited[q[0]+di[m]][q[1]+dj[m]][0] =  visited[q[0]][q[1]][q[2]]+1
-                    Q.append([q[0] + di[m],q[1] + dj[m],0])
+            nx = x+di[m]
+            ny = y+dj[m]
 
-                elif G[q[0]+di[m]][q[1]+dj[m]] == 1 and visited[q[0]+di[m]][q[1]+dj[m]][1] == 0  and q[2] == 0 :
-                    visited[q[0] + di[m]][q[1] + dj[m]][1] = visited[q[0]][q[1]][q[2]]+1
-                    Q.append([q[0]+di[m], q[1]+dj[m], 1])
+            if 0 <= nx <N and 0 <= ny <M:
 
+                if G[x + di[m]][ny] == 0 and visited[nx][ny][z] == 0:
+                    visited[nx][ny][z] = visited[x][y][z]+1
+                    Q.append([nx,ny,z])
+
+                elif G[nx][ny] == 1:
+                    if z == 0 and visited[nx][ny][1] == 0:
+                        visited[nx][ny][1] = visited[x][y][z]+1
+                        Q.append([nx, ny, z+1])
     return
+
+
 
 N, M = map(int , input().split())
 G = [list(map(int,list(input()))) for _ in range(N)]
-
 visited = [[[0]*2 for _  in range(M)] for _ in range(N)]
-
-print(BFS(0,0))
-for v in visited:
-    print(v)
-print()
+ans = BFS()
+if ans == None:print(-1)
+else:print(ans)

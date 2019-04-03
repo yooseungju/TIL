@@ -14,9 +14,9 @@ def check_closs(x, y, num):
             yt += dj[d]
             closs_chk[xt][yt] +=  num
 
+
 def perm(k, n, cnt):
     global MAX
-
     if k == n:
         if cnt == N:
             MAX +=1
