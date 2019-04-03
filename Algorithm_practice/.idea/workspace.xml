@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44fad65e-bd9d-433f-b0ce-91f5842f8aad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Algorithm_class02/AD/B8_[TEST] 미사일.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_class02/AD/C2_[TST]양팔저울(BASIC)_강사님.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[3055]탈출.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_class02/AD/C7_[TST] 치킨배달2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm_class02/AD/C9_[TST]기업투자(BASIC2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[1525]퍼즐.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithm_class02/.idea/Algorithm_class02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class02/.idea/Algorithm_class02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm_class02/AD/B8_[TST]N QUEEN(BASIC).py" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class02/AD/B8_[TST]N QUEEN(BASIC).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm_class02/AD/C0_[TST]퍼킷.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class02/AD/C0_[TST]퍼킷.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm_class02/AD/C3_[TEST] 상자 포장하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class02/AD/C3_[TEST] 상자 포장하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Algorithm_class02/AD/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm_class02/AD/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Algorithm_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm_practice.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[BJ_2206] 벽 부수고 이동하기2.py" beforeDir="false" afterPath="$PROJECT_DIR$/[BJ_2206] 벽 부수고 이동하기2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[3055]탈출.py" beforeDir="false" afterPath="$PROJECT_DIR$/[3055]탈출.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{BJ_2206]벽 부수고 이동하기.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,48 +19,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1589551707">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="1666" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="1666" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/z_test.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/[1525]퍼즐.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/프로세서 연결하기_정세민.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state relative-caret-position="26">
+              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -94,15 +78,16 @@
         <option value="$PROJECT_DIR$/프로세서 연결하기.py" />
         <option value="$PROJECT_DIR$/{BJ_2206]벽 부수고 이동하기.py" />
         <option value="$PROJECT_DIR$/[BJ_2206] 벽 부수고 이동하기2.py" />
-        <option value="$PROJECT_DIR$/input.txt" />
         <option value="$PROJECT_DIR$/[3055]탈출.py" />
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/[1525]퍼즐.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1034" />
-    <option name="width" value="893" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="443" />
+    <option name="width" value="1112" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -110,6 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,7 +107,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.[3055]탈출">
+  <component name="RunManager" selected="Python.[1525]퍼즐">
     <configuration name="[모의 SW 역량테스트] 등산로 조성" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,6 +139,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[모의 SW 역량테스트] 등산로 조성.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[1525]퍼즐" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/[1525]퍼즐.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,9 +236,11 @@
       <item itemvalue="Python.[모의 SW 역량테스트] 등산로 조성" />
       <item itemvalue="Python.{BJ_2206]벽 부수고 이동하기" />
       <item itemvalue="Python.[3055]탈출" />
+      <item itemvalue="Python.[1525]퍼즐" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.[1525]퍼즐" />
         <item itemvalue="Python.[3055]탈출" />
         <item itemvalue="Python.[BJ_2206] 벽 부수고 이동하기2" />
         <item itemvalue="Python.{BJ_2206]벽 부수고 이동하기" />
@@ -254,16 +262,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1034" y="0" width="893" height="1047" extended-state="1" />
+    <frame x="443" y="0" width="1112" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32982457" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26256984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23684211" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25584593" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39898348" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -276,9 +284,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -286,6 +291,11 @@
           <url>file://$PROJECT_DIR$/[3055]탈출.py</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/[1525]퍼즐.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -316,20 +326,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/등산로 조성.py" />
-    <entry file="file://$PROJECT_DIR$/프로세서 연결하기_정세민.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[모의 SW 역량테스트] 등산로 조성.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/프로세서 연결하기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -344,32 +340,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/{BJ_2206]벽 부수고 이동하기.py">
+    <entry file="file://$PROJECT_DIR$/{BJ_2206]벽 부수고 이동하기.py" />
+    <entry file="file://$PROJECT_DIR$/[모의 SW 역량테스트] 등산로 조성.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state relative-caret-position="442">
+          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/[3055]탈출.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="40" selection-end-line="56" />
-          <folding>
-            <marker date="1554274747592" expanded="true" signature="55:797" ph="..." />
-          </folding>
+        <state relative-caret-position="403">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/z_test.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/프로세서 연결하기_정세민.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/[1525]퍼즐.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
