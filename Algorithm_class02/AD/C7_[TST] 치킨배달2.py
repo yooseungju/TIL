@@ -22,7 +22,6 @@ def DFS(k, n):
         if SUM < MIN_SUM:
             MIN_SUM = SUM
 
-
         if SUM < MIN:
             MIN = SUM
         return

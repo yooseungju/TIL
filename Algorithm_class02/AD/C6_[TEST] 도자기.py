@@ -7,6 +7,7 @@ def com(k):
     global cnt, TMP
     if len(tmp) > M:
         return
+    
     if k == len(clay):
         if len(tmp) == M:
             if not tmp in TMP:
