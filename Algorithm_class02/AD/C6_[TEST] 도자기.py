@@ -12,12 +12,6 @@ def com(k):
             if not tmp in TMP:
                 TMP.append(tmp[::])
     else:
-
-        # tmp.append(clay[k])
-        # com(k+1)
-        # tmp.pop()
-        # com(k+1)
-
         if len(tmp) == 0:
             tmp.append(clay[k])
             com(k + 1)
