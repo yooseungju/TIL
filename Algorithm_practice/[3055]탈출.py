@@ -10,7 +10,7 @@ def BFS(Q):
     while Q:
         x, y, a = Q.pop(0)
         if a != 'W':
-            if x== D[0] and y == D[1]:
+            if x == D[0] and y == D[1]:
                 return a
         for m in range(4):
             nx = x + di[m]
@@ -27,6 +27,10 @@ def BFS(Q):
                         V[nx][ny] = 0
                         Q.append([nx, ny, a+1])
 
+
+
+
+# main -----------------------------------------------------------------
 
 R, C = map(int, input().split())
 M = [list(input()) for _ in range(R)]
