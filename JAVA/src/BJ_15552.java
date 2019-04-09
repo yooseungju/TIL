@@ -23,6 +23,7 @@ public class BJ_15552 {
 			bw.write(a+b+"\n");
 			
 		}
+		
 		bw.flush();
 		bw.close();
 
