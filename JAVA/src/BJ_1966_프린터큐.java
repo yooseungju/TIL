@@ -13,7 +13,7 @@ public class BJ_1966_프린터큐 {
 
 		int T = sc.nextInt();
 		
-		//Testcase 시작
+		//Testcase �떆�옉
 		for(int i =0; i<T;i++) {
 			
 			N = sc.nextInt();

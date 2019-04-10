@@ -9,6 +9,7 @@ def DFS(k, start):
     for i in range(start, N):
         if rec[k] != arr[i]:
             rec[k] = arr[i]
+            print(rec)
             DFS(k+1, i+1)
     rec[k] = 0
 

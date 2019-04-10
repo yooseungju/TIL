@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e03ce785-570c-4a61-9508-faacdf92191e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AD/D9_[TST] 뿌요뿌요.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Algorithm_practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AD/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Algorithm_class02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm_class02.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AD/D5_[TEST] 미로탈출.py" beforeDir="false" afterPath="$PROJECT_DIR$/AD/D5_[TEST] 미로탈출.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AD/D6_[TST] 구슬 집어넣기 게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/AD/D6_[TST] 구슬 집어넣기 게임.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A5_[TST]예산.py" beforeDir="false" afterPath="$PROJECT_DIR$/IM/A5_[TST]예산.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/C6_[TEST] 도자기_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AD/C6_[TEST] 도자기_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/C9_[TST]기업투자(BASIC2).py" beforeDir="false" afterPath="$PROJECT_DIR$/AD/C9_[TST]기업투자(BASIC2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/D3_[TST]자외선을 피해 가기_강사님.py" beforeDir="false" afterPath="$PROJECT_DIR$/AD/D3_[TST]자외선을 피해 가기_강사님.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/D4_[TST]로봇.py" beforeDir="false" afterPath="$PROJECT_DIR$/AD/D4_[TST]로봇.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/D9_[TST] 뿌요뿌요.py" beforeDir="false" afterPath="$PROJECT_DIR$/AD/D9_[TST] 뿌요뿌요.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AD/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AD/input.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,82 +20,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1400793091">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="4505" />
-          <entry key="txt" value="21" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="4505" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="8" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AD/input.txt">
+        <entry file="file://$PROJECT_DIR$/AD/D3_[TST]자외선을 피해 가기_강사님.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+            <state relative-caret-position="390">
+              <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IM/[TST]마을위성사진.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IM/[TST]같은 모양찾기2.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IM/[TST]경비원.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IM/[TST]같은모양찾기.py">
+        <entry file="file://$PROJECT_DIR$/AD/B8_[TST]N QUEEN(BASIC).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-274" />
+            <state relative-caret-position="546">
+              <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AD/D9_[TST] 뿌요뿌요.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-              <folding>
-                <marker date="1554450747429" expanded="true" signature="294:961" ph="..." />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/AD/A7_[TST]저글링 방사능 오염.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AD/C0_[TST]장기.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AD/C1_[TST] 테이프 이어 붙이기.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -111,17 +71,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/AD/D5_[TEST] 미로탈출.py" />
-        <option value="$PROJECT_DIR$/AD/D4_[TST]로봇.py" />
         <option value="$PROJECT_DIR$/AD/D6_[TST] 구슬 집어넣기 게임.py" />
+        <option value="$PROJECT_DIR$/AD/test.py" />
         <option value="$PROJECT_DIR$/AD/input.txt" />
         <option value="$PROJECT_DIR$/AD/D9_[TST] 뿌요뿌요.py" />
+        <option value="$PROJECT_DIR$/AD/C9_[TST]기업투자(BASIC2).py" />
+        <option value="$PROJECT_DIR$/AD/C6_[TEST] 도자기_2.py" />
+        <option value="$PROJECT_DIR$/AD/D3_[TST]자외선을 피해 가기_강사님.py" />
+        <option value="$PROJECT_DIR$/AD/D4_[TST]로봇.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="527" />
-    <option name="width" value="1410" />
-    <option name="height" value="1047" />
+    <option name="x" value="489" />
+    <option name="y" value="19" />
+    <option name="width" value="1140" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -129,7 +94,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,11 +110,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm_practice" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YSJ\Desktop\TIL\Algorithm_class02\IM" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,27 +135,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.D9_[TST] 뿌요뿌요">
-    <configuration name="D4_[TST]로봇" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithm_class02" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AD" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AD/D4_[TST]로봇.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="D5_[TEST] 미로탈출" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_class02" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,18 +198,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithm_class02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AD" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AD/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.D4_[TST]로봇" />
       <item itemvalue="Python.D5_[TEST] 미로탈출" />
       <item itemvalue="Python.D6_[TST] 구슬 집어넣기 게임" />
       <item itemvalue="Python.D9_[TST] 뿌요뿌요" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.D9_[TST] 뿌요뿌요" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.D6_[TST] 구슬 집어넣기 게임" />
         <item itemvalue="Python.D5_[TEST] 미로탈출" />
-        <item itemvalue="Python.D4_[TST]로봇" />
       </list>
     </recent_temporary>
   </component>
@@ -278,16 +248,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="527" y="0" width="1410" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="489" y="19" width="1140" height="920" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.84210527" visible="true" weight="0.12682216" />
-      <window_info id="Structure" order="1" sideWeight="0.15789473" side_tool="true" visible="true" weight="0.12682216" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8310038" visible="true" weight="0.2849365" />
+      <window_info id="Structure" order="1" sideWeight="0.16899619" side_tool="true" visible="true" weight="0.2849365" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26644737" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4868421" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26556543" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47180194" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -299,9 +268,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -323,23 +289,43 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/AD/D9_[TST] 뿌요뿌요.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="11" />
+          <line>66</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AD/D9_[TST] 뿌요뿌요.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="counter" language="Python" />
-        <watch expression="Q" language="Python" />
         <watch expression="arr" language="Python" />
+        <watch expression="visited" language="Python" />
+        <watch expression="dummy" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
+        <expression-string>dummy</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>counter</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>visited</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tmp</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -373,49 +359,9 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>Brec</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Rrec</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AD/D5_[TEST] 미로탈출.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="18" selection-end-line="57" />
-          <folding>
-            <marker date="1554424164592" expanded="true" signature="130:131" ph="..." />
-            <marker date="1554424164592" expanded="true" signature="130:784" ph="..." />
-            <marker date="1554424164592" expanded="true" signature="130:786" ph="..." />
-            <marker date="1554424164592" expanded="true" signature="130:794" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AD/D4_[TST]로봇.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AD/D6_[TST] 구슬 집어넣기 게임.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="76" selection-end-line="79" />
-          <folding>
-            <marker date="1554446462747" expanded="true" signature="53:1483" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IM/[TST]같은모양찾기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-274" />
@@ -430,25 +376,127 @@
     <entry file="file://$PROJECT_DIR$/IM/[TST]마을위성사진.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AD/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AD/D1_[PY-TST]그래프 칠하기.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AD/D9_[TST] 뿌요뿌요.py">
+    <entry file="file://$PROJECT_DIR$/AD/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding>
-            <marker date="1554450747429" expanded="true" signature="294:961" ph="..." />
-          </folding>
+        <state relative-caret-position="13">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/D9_[TST] 뿌요뿌요.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/C9_[TST]기업투자(BASIC2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/D5_[TST] 나무 자르기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/D5_[TEST] 미로탈출.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/C6_[TEST] 도자기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/C3_[TEST] 상자 포장하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" selection-start-line="16" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/B3_[TST] 구슬 고르기3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/D6_[TST] 구슬 집어넣기 게임.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/C6_[TEST] 도자기_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/D2_[PY-TST]해밀턴 순환회로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/D4_[TST]파이프 제거.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="20" selection-start-line="19" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/D4_[TST]로봇.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/D6_[TST]소시지 공장.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/C4_[TST]주사위 던지기1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/D3_[TST]자외선을 피해 가기_강사님.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/C0_[TST]장기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/C1_[TST] 테이프 이어 붙이기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/B8_[TST]N QUEEN(BASIC).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AD/A7_[TST]저글링 방사능 오염.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

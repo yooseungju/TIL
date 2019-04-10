@@ -23,6 +23,7 @@ def BFS():
     return rec[N-1][N-1]
 
 
+
 N = int(input())
 arr = [list(map(int, list(input()))) for _ in range(N)]
 rec = [[0xfffffff]*N for _ in range(N)]

@@ -27,7 +27,6 @@ def BFS():
             else:
                 break
 
-
         for i in range(4):
             if i == d:
                 continue

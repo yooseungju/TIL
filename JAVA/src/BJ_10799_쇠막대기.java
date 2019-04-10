@@ -1,8 +1,5 @@
 import java.util.*;
-public class BJ_10799_쇠막대기 {
-	
-	
-	
+public class BJ_10799_�踷��� {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,16 +9,16 @@ public class BJ_10799_쇠막대기 {
 		int cnt = 0;
 		
 		for(int i=0 ;i<arr.length;i++) {
-			if(arr[i] == "(") stack.push(arr[i]);
+			
+			if(arr[i].equals("(")) stack.push(arr[i]);
 			else
-				if(stack.peek() == "(") {
+				if(stack.peek().equals("(")) {
 				stack.pop();
+				
 				if(!stack.empty()) {
 					cnt+= stack.size();
 				}
-			}	
-		}
-	
-	}
-	
+			}else stack.pop();
+		}System.out.println(cnt);	
+	}	
 }
