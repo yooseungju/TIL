@@ -1,42 +1,58 @@
-import java.util.Scanner;
-import java.util.PriorityQueue;
-import java.util.Comparator;
+import java.util.*;
+import java.util.LinkedList;
 public class BJ_1966_프린터큐 {
 	
+	static Scanner sc = new Scanner(System.in);
+	static LinkedList<Integer> list = new LinkedList();
+	static LinkedList<Integer> index = new LinkedList();
+
+	static int N;
+	static int M;
+	
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+
 		int T = sc.nextInt();
 		
+		//Testcase 시작
 		for(int i =0; i<T;i++) {
 			
-			PriorityQueue<Printer> pq = new PriorityQueue<Printer>(100000, new Comparator<Printer>(){
-				@Override
-				public int compare(Printer o1, Printer o2) {
-					// TODO Auto-generated method stub
-					if(o1.weight > o2.weight) return -1;
-					
-					return 0;
-				}
-				
-				
-			});
-			int N = sc.nextInt();
-			int M =sc.nextInt();		
+			N = sc.nextInt();
+			M =sc.nextInt();
+			sc.nextLine();
 			
+			int cnt = 0;
+
+			
+			String[] arr = sc.nextLine().split(" ");
+						
+			for(int j=0;j<N;j++) {
+				list.add(Integer.parseInt(arr[j]));
+			}
+			
+			while(!list.isEmpty()) {
+				int tmp = list.getFirst();
+				
+				if(go_back(tmp)) {
+					int index_tmp = index.getFirst();
+					index.removeFirst();
+					index.add(index_tmp);
+					list.removeFirst();
+					list.add(tmp);
+					}
+				else {
+					cnt ++;
+					if(index.getFirst() == M)System.out.println(cnt);
+					list.removeFirst();
+					index.removeFirst();
+				}				           				            
+			}						
 		}
 	}
-
-
-}
-
-class Printer{
-	int index;
-	int weight;
 	
-	Printer(int index, int weight){
-		this.index = index;
-		this.weight = weight;
+	static boolean go_back(int tmp){
+		for(int j=0;j<list.size();j++) {
+			if(list.get(j) > tmp)return true;  
+		}	
+		return false;
 	}
-	
 }
-
