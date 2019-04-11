@@ -1,5 +1,5 @@
 import java.util.*;
-public class BJ_10799_¼è¸·´ë±â {
+public class BJ_10799_ì‡ ë§‰ëŒ€ê¸° {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -11,14 +11,12 @@ public class BJ_10799_¼è¸·´ë±â {
 		for(int i=0 ;i<arr.length;i++) {
 			
 			if(arr[i].equals("(")) stack.push(arr[i]);
-			else
-				if(stack.peek().equals("(")) {
+			else {
 				stack.pop();
-				
-				if(!stack.empty()) {
-					cnt+= stack.size();
-				}
-			}else stack.pop();
-		}System.out.println(cnt);	
+				if(arr[i-1].equals("(")) cnt+= stack.size();
+				else cnt++;
+			}
+	
+		}System.out.println(cnt);		
 	}	
 }
