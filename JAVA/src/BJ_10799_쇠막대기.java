@@ -12,13 +12,13 @@ public class BJ_10799_¼è¸·´ë±â {
 			
 			if(arr[i].equals("(")) stack.push(arr[i]);
 			else
-				if(stack.peek().equals("(")) {
-				stack.pop();
 				
-				if(!stack.empty()) {
-					cnt+= stack.size();
-				}
-			}else stack.pop();
+				if(stack.peek().equals("(")) {
+					stack.pop();
+					if(!stack.empty()) {
+						cnt+= stack.size();
+					}
+				}else stack.pop();
 		}System.out.println(cnt);	
 	}	
 }
