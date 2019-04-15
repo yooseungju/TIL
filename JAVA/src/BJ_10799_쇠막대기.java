@@ -1,5 +1,5 @@
 import java.util.*;
-public class BJ_10799_쇠막대기 {
+public class BJ_10799_쇠막대기{
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
