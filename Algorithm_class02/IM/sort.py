@@ -68,7 +68,7 @@ quickSort(0,len(x)-1, x)
 tmp = [0] * len(x)
 
 for i in x:
-    print(i, end=' ')
+    print(i )
 
 
 
