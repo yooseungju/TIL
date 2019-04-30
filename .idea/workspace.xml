@@ -1,32 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e014ba3-b77c-40bc-8541-821cec237c84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm_class02/BJ/[17143]낚시왕.py" afterDir="false" />
+    <list default="true" id="c5cdbfcd-4011-4b95-aa2d-a0f02b611d9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorithm_class02/BJ/[17141]연구소2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm_class02/BJ/[17141]연구소_while.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm_class02/BJ/[17144]미세먼지 안녕.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_class02/BJ/[17144]미세먼지 안녕.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm_class02/BJ/[17143]낚시왕.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_class02/BJ/[17143]낚시왕.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm_class02/BJ/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_class02/BJ/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_1001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_101718.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_10172.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_10998.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_1152.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_11718.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_1260.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_15552.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_1874.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_1929.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_1966_프린터큐.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_2581.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/BJ_2839.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA/src/PG_다리를지나는트럭.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,13 +17,71 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1274288971">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="4" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="2782" />
+          <entry key="txt" value="63" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="Python" value="2782" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithm_class02/BJ/[17143]낚시왕.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="78" column="22" lean-forward="true" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+            <state relative-caret-position="148">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm_class02/BJ/[17141]연구소2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <marker date="1556608720552" expanded="true" signature="56:61" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithm_class02/BJ/[17141]연구소_while.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -48,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithm_class02/BJ/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -65,9 +106,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>print</find>
-      <find>C</find>
-      <find>prin</find>
+      <find>pr</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -76,18 +115,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithm_class02/IM/sort.py" />
-        <option value="$PROJECT_DIR$/Algorithm_class02/BJ/[17144]미세먼지 안녕.py" />
-        <option value="$PROJECT_DIR$/Algorithm_class02/BJ/input.txt" />
         <option value="$PROJECT_DIR$/Algorithm_class02/BJ/[17143]낚시왕.py" />
+        <option value="$PROJECT_DIR$/Algorithm_class02/BJ/[17141]연구소2.py" />
+        <option value="$PROJECT_DIR$/Algorithm_class02/BJ/input.txt" />
+        <option value="$PROJECT_DIR$/Algorithm_class02/BJ/[17141]연구소_while.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="579" />
-    <option name="y" value="38" />
-    <option name="width" value="864" />
-    <option name="height" value="844" />
+    <option name="x" value="548" />
+    <option name="width" value="1379" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -134,8 +172,50 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.[17143]낚시왕">
-    <configuration name="[17143]낚시왕" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.[17141]연구소_while">
+    <configuration name="[17141]연구소2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm_class02/BJ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm_class02/BJ/[17141]연구소2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[17141]연구소_while" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TIL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm_class02/BJ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm_class02/BJ/[17141]연구소_while.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="[17143]낚시왕" type="PythonConfigurationType" factoryName="Python">
       <module name="TIL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,31 +236,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="[17144]미세먼지 안녕" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TIL" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm_class02/BJ" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm_class02/BJ/[17144]미세먼지 안녕.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Python.[17143]낚시왕" />
+      <item itemvalue="Python.[17141]연구소2" />
+      <item itemvalue="Python.[17141]연구소_while" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.[17143]낚시왕" />
-        <item itemvalue="Python.[17144]미세먼지 안녕" />
+        <item itemvalue="Python.[17141]연구소_while" />
+        <item itemvalue="Python.[17141]연구소2" />
       </list>
     </recent_temporary>
   </component>
@@ -189,29 +253,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5e014ba3-b77c-40bc-8541-821cec237c84" name="Default Changelist" comment="" />
-      <created>1555308150038</created>
+      <changelist id="c5cdbfcd-4011-4b95-aa2d-a0f02b611d9d" name="Default Changelist" comment="" />
+      <created>1555544538435</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1555308150038</updated>
+      <updated>1555544538435</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="579" y="38" width="864" height="844" extended-state="0" />
+    <frame x="548" y="0" width="1379" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.036319613" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1536167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3218707" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42228335" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25657895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4649123" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32993197" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -219,84 +284,54 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Algorithm_class02/BJ/[17144]미세먼지 안녕.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Algorithm_class02/BJ/[17143]낚시왕.py</url>
-          <line>73</line>
-          <option name="timeStamp" value="16" />
+          <line>3</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="M" language="Python" />
-        <watch expression="R" language="Python" />
-        <watch expression="C" language="Python" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="watch">
-      <expression>
-        <expression-string>C</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>R</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>dX</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>dummy</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>M</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm_class02/IM/sort.py">
+    <entry file="file://$PROJECT_DIR$/Algorithm_class02/BJ/[17144]미세먼지 안녕.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+        <state relative-caret-position="-749" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm_class02/BJ/[17143]낚시왕.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm_class02/BJ/[17141]연구소2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <marker date="1556608720552" expanded="true" signature="56:61" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm_class02/BJ/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm_class02/BJ/[17144]미세먼지 안녕.py">
+    <entry file="file://$PROJECT_DIR$/Algorithm_class02/BJ/[17141]연구소_while.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="110" column="23" lean-forward="true" selection-start-line="110" selection-start-column="23" selection-end-line="110" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm_class02/BJ/[17143]낚시왕.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="78" column="22" lean-forward="true" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
+        <state relative-caret-position="469">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
