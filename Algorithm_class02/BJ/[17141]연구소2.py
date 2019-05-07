@@ -22,6 +22,7 @@ def sol(tmp):
                 if G[nx][ny] > Max:
                     Max = G[nx][ny]
                 Q.append((nx, ny))
+
     for i in range(N):
         for j in range(N):
             if Origin[i][j] == 0 and G[i][j] == 0:

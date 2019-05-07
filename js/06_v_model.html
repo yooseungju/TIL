@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>v-model</title>
+  
+</head>
+<body>
+    <div id="app">
+       <h1>HELLO, {{name}}</h1>
+       <input type="text" v-model="name">
+       <h3><input type="checkbox" v-model="emotion"></h3>
+
+       <img :src="emotion ? happy : sad ">
+    
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script>
+        const app = new Vue({
+            el:'#app',
+            data:{
+                name:'vue',
+               emotion:true,
+               happy:'https://www.flaticon.com/premium-icon/icons/svg/1747/1747651.svg',
+               sad:'https://www.flaticon.com/premium-icon/icons/svg/1747/1747707.svg',
+                }
+                
+        })
+    
+    
+    </script>
+</body>
+</html>

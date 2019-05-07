@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>v-for</title>
+    <style>
+        img{
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+       <li v-for="(todo, index) in todos">
+           {{index}}: {{todo.text}}
+       </li>
+    
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script>
+        const app = new Vue({
+            el:'#app',
+            data:{
+               todos:[
+                   {text:'오늘의 점심'},
+                   {text:'오늘의 저녁'},
+                   {text:'오늘의 아침'},
+                   {text:'오늘의 간식'},
+               ]
+                }
+        })
+    
+    
+    </script>
+</body>
+</html>

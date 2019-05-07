@@ -8,7 +8,6 @@ dj = (-1,1,0,0)
 di = (0,0,-1,1)
 
 
-
 def sol(tmp):
     flag = True
 
@@ -20,13 +19,11 @@ def sol(tmp):
         G[x][y] = 2
 
     cnt = 0
-    visited = [[0] * N for _ in range(N)]
     while flag:
-
-
+        visited = [[0] * N for _ in range(N)]
         for i in range(N):
             for j in range(N):
-                if visited[i][j] == 0 and Origin[i][j] != 1:
+                if G[i][j] == 0 and Origin[i][j] != 1:
                     for m in range(4):
                         nx = i + di[m]
                         ny = j + dj[m]
@@ -34,7 +31,6 @@ def sol(tmp):
                             visited[i][j] = 2
                             flag = False
                             break
-
 
 
         if not flag:
@@ -45,22 +41,18 @@ def sol(tmp):
                     if visited[i][j] == 2:
                         G[i][j] = 2
 
-        else:
 
+        else:
             for i in range(N):
                 for j in range(N):
-
-                    if G[i][j] == 0 and Origin == 0:
-
+                    if G[i][j] == 0 and Origin[i][j] == 0:
                         return False
-
             return cnt
 
 
 
 def com(k, n, tmp):
     global Min
-
     if k == n:
         if len(tmp) == M:
             result = sol(tmp)
@@ -74,7 +66,6 @@ def com(k, n, tmp):
         tmp.pop()
         com(k+1, n, tmp)
 
-
 b_list = []
 tmp = []
 Min = 0xfffffff
@@ -87,4 +78,8 @@ for i in range(N):
 
 com(0,len(b_list),tmp)
 
-print(Min)
+
+if Min == 0xfffffff:
+    print(-1)
+else:
+    print(Min)
