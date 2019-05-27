@@ -9,6 +9,7 @@ di = (0,0,-1,1)
 
 
 def sol(tmp):
+
     flag = True
 
     G = [[0] * N for _ in range(N)]
@@ -19,6 +20,7 @@ def sol(tmp):
         G[x][y] = 2
 
     cnt = 0
+
     while flag:
         visited = [[0] * N for _ in range(N)]
         for i in range(N):
@@ -65,6 +67,8 @@ def com(k, n, tmp):
         com(k + 1, n, tmp)
         tmp.pop()
         com(k+1, n, tmp)
+
+
 
 b_list = []
 tmp = []
