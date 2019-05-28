@@ -17,14 +17,10 @@ def sol(tmp):
         for m in range(4):
             nx = i + di[m]
             ny = j + dj[m]
-
             if 0<=nx<N and 0<=ny<N and G[nx][ny] == 0 and Origin[nx][ny] != 1:
                 G[nx][ny] = G[i][j] + 1
-
                 if G[nx][ny] > Max:
                     Max = G[nx][ny]
-
-
                 Q.append((nx, ny))
 
     if zero_cnt == zero:
