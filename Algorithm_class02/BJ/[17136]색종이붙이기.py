@@ -5,15 +5,21 @@ SIZE = 10
 
 
 def check(x,y,k):
+    flag = True
     for i in range(k):
         for j in range(k):
             nx = x+i
             ny = y+j
-            if 0<=nx<SIZE and 0<=ny<SIZE:
-                if M[nx][ny] != 1:
-                    return False
+            if not 0<=nx<SIZE or not 0<=ny<SIZE or M[nx][ny] == 0:
+                flag = False
+    return flag
 
-    return True
+
+def change(x,y,k,v):
+    for i in range(k):
+        for j in range(k):
+            M[i + x][j + y] = v
+
 
 def search(k, count, result, SUM):
     global Min
@@ -32,16 +38,10 @@ def search(k, count, result, SUM):
             for j in range(SIZE):
                 if M[i][j] == 1 and check(i,j,k):
                     if count < 5:
-
-                        for x in range(k):
-                            for y in range(k):
-                                M[i+x][j+y] = 0
-
+                        change(i,j,k,0)
                         search(k, count+1, result, SUM)
+                        change(i, j, k, 1)
 
-                        for x in range(k):
-                            for y in range(k):
-                                M[i+x][j+y] = 1
                     flag = 0
                     break
         else:
@@ -59,6 +59,7 @@ for i in range(SIZE):
     for j in range(SIZE):
         if M[i][j] == 1:
             C += 1
+
 search(5, 0, 0, 0)
 
 if Min == 0xfffffff:
