@@ -21,11 +21,9 @@ def search(c):
     if c > MIN:
         return
 
-    count = 0
 
     for i in range(SIZE):
         for j in range(SIZE):
-            count += 1
             if M[i][j] == 1:
                 for k in range(5,0,-1):
                     if chk[k] > 0 and check(i,j,k):
@@ -42,9 +40,6 @@ def search(c):
     if c < MIN:
         MIN = c
     return
-
-
-
 
 #main----------------------------------------------------------
 SIZE = 10
