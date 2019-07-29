@@ -3,7 +3,7 @@ sys.stdin =  open("input.txt")
 
 T = int(input())
 
-
+# 0: 좌 1:우 2:상 3:하
 dy = (-1,1,0,0)
 dx = (0,0,-1,1)
 
@@ -28,12 +28,16 @@ def BFS():
     global S
     Q = [(0,0,1)]
 
+
     while len(Q) > 0:
         x, y, d = Q.pop()
 
         if T[x][y][d][S]:
-            if len(Q) == 0:
-                return False
+           continue
+        else:
+
+            T[x][y][d][S] = 1
+
 
         # @	프로그램의 실행을 정지한다.
         if M[x][y] == "@":
@@ -41,27 +45,22 @@ def BFS():
 
         # <	이동 방향을 왼쪽으로 바꾼다.
         elif M[x][y] == "<":
-            T[x][y][d][S] = 1
             Q.append(ch(x, y, 0))
 
         # >	이동 방향을 오른쪽으로 바꾼다.
         elif M[x][y] == ">":
-            T[x][y][d][S] = 1
             Q.append(ch(x, y, 1))
 
         # ^	이동 방향을 위쪽으로 바꾼다.
         elif M[x][y] == "^":
-            T[x][y][d][S] = 1
             Q.append(ch(x, y, 2))
 
         # v	이동 방향을 아래쪽으로 바꾼다.
         elif M[x][y] == "v":
-            T[x][y][d][S] = 1
             Q.append(ch(x, y, 3))
 
         # _	메모리에 0이 저장되어 있으면 이동 방향을 오른쪽으로 바꾸고, 아니면 왼쪽으로 바꾼다.
         elif M[x][y] == "_":
-            T[x][y][d][S] = 1
             if S == 0:
                 Q.append(ch(x, y, 1))
             else:
@@ -69,7 +68,6 @@ def BFS():
 
         # |	메모리에 0이 저장되어 있으면 이동 방향을 아래쪽으로 바꾸고, 아니면 위쪽으로 바꾼다.
         elif M[x][y] == "|":
-            T[x][y][d][S] = 1
             if S == 0:
                 Q.append(ch(x, y, 3))
             else:
@@ -79,11 +77,9 @@ def BFS():
         elif M[x][y] == "?":
             for m in range(4):
                 Q.append(ch(x, y, m))
-            T[x][y][d][S] = 1
 
         # .	아무 것도 하지 않는다.
         elif M[x][y] == ".":
-            T[x][y][d][S] = 1
             Q.append(ch(x, y, d))
 
         # +	메모리에 저장된 값에 1을 더한다. 만약 더하기 전 값이 15이라면 0으로 바꾼다.
@@ -92,8 +88,6 @@ def BFS():
                 S = 0
             else:
                 S += 1
-            T[x][y][d][S] = 1
-
             Q.append(ch(x, y, d))
 
         # -	메모리에 저장된 값에 1을 뺀다. 만약 빼기 전 값이 0이라면 15로 바꾼다.
@@ -102,14 +96,15 @@ def BFS():
                 S = 15
             else:
                 S -= 1
-            T[x][y][d][S] = 1
             Q.append(ch(x, y, d))
 
         # 0~9	메모리에 문자가 나타내는 값을 저장한다.
         else:
-            S += int(M[x][y])
-            T[x][y][d][S] = 1
+            S = int(M[x][y])
             Q.append(ch(x,y,d))
+
+
+
 
 
 
@@ -118,7 +113,7 @@ def BFS():
 for tc in range(T):
     R, C  = map(int, input().split())
     M = [list(input()) for _ in range(R)]
-    T = [[[[0 for _ in range(16)]for _ in range(4)] for _ in range(C)] for _ in range(R)]
+    T = [[[[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0] for _ in range(4)] for _ in range(C)] for _ in range(R)]
     S = 0
 
     ans = BFS()
