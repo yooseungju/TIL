@@ -14,7 +14,7 @@ def BFS(i,j):
     M[i][j] = 1
 
     while len(Q) > 0:
-        x,y = Q.pop()
+        x,y = Q.pop(0)
 
         for m in range(4):
             nx = x + dx[m]

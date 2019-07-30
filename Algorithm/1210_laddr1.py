@@ -7,11 +7,11 @@ SIZE = 100
 dy = (-1,1,0)
 dx = (0,0,-1)
 
-def DFS(i,j):
-    Stack = [(i,j,2)]
+def BFS(i,j):
+    Q = [(i,j,2)]
 
-    while len(Stack)>0:
-        x, y, d = Stack.pop(0)
+    while len(BFS)>0:
+        x, y, d = BFS.pop(0)
 
         if x == 0:
             return y
@@ -31,7 +31,7 @@ def DFS(i,j):
             ny = dy[m] + y
             if 0 <= nx < SIZE and 0<=ny<SIZE:
                 if M[nx][ny] == 1:
-                    Stack.append((nx,ny,m))
+                    BFS.append((nx,ny,m))
                     break
 
 
@@ -39,7 +39,7 @@ def getStart():
     for i in range(SIZE-1, -1,-1):
         for j in range(SIZE-1,-1,-1):
             if M[i][j] == 2:
-                return DFS(i,j)
+                return BFS(i,j)
 
 
 
