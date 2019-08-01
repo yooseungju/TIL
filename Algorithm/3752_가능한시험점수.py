@@ -1,32 +1,32 @@
 import sys
 sys.stdin = open("input.txt")
+
+
 T = int(input())
-
-
-
-def com(k, SUM):
-    global TMP
-    if k < 0:
-        if SUM not in TMP:
-            TMP.append(SUM)
-        return
-
-    com(k-1, SUM+L[k])
-    com(k-1, SUM)
-
 
 for tc in range(T):
     N = int(input())
-    L = list(set(map(int, input().split())))
-    flag = False
-    if N != len(L):
-        flag = True
+    L = list(map(int, input().split()))
 
-    TMP = []
+    store = [False]*10001
+    store[0] = True
+    count = 1
 
-    com(len(L)-1,0)
+    for i in range(len(L)):
+        c = count
+        true = []
 
-    if flag:
-        print(f"#{tc+1} {len(TMP)+N-len(L)}")
-    else:
-        print(f"#{tc + 1} {len(TMP)}")
+        for j in range(10001):
+            if store[j]:
+                if not store[j+L[i]]:
+                    true.append(j+L[i])
+                    count += 1
+                c -=1
+
+            if c == 0:
+                break
+
+        for z in true:
+            store[z] = True
+
+    print(f"#{tc + 1} {count}")
