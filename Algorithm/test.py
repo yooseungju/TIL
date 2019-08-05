@@ -1,2 +1,4 @@
-for i in range(0, 2 * 2, 2):
-    print(i)
+H = [1,2,3]
+
+H.pop(1)
+print(H)
