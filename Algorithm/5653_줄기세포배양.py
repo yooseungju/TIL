@@ -26,10 +26,10 @@ for tc in range(T):
         cell_time_tmp = []
 
         i = 0
-        len_cell  = len(cell)
-        while i < len_cell:
-            x, y = cell[i]
 
+
+        while i < len(cell):
+            x, y = cell[i]
             o = cell_time[i][0]
             z = cell_time[i][1]
 
@@ -39,24 +39,27 @@ for tc in range(T):
                     nx = x + dx[m]
                     ny = y + dy[m]
 
+
                     if (nx,ny) not in cell_false:
                         if (nx,ny) not in cell_tmp:
                             cell_tmp.append((nx,ny))
                             cell_time_tmp.append([o,o])
                         else:
+                            # 동시에 같은 곳에 접근할 때
                             index = cell_tmp.index((nx,ny))
                             if o > cell_time_tmp[index][0]:
                                 cell_time_tmp[index]=[o,o]
 
 
-                cell_time[i][1] -= 1
+
+            cell_time[i][1] -= 1
 
             #비활성화 시키기
             if -o == cell_time[i][1]:
                 cell_false.append(cell[i])
+
                 cell_time.pop(i)
-                cell_time_tmp.pop(i)
-                len_cell-=1
+                cell.pop(i)
 
             else:
                 i += 1
