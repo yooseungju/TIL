@@ -47,21 +47,20 @@ for tc in range(T):
     N, M, K = map(int, input().split())
 
     D = [list(map(int, input().split())) for _ in range(N)]
-    matrix = [[0]*1001 for _ in range(1001)]
+    matrix = [[0]*500 for _ in range(500)]
 
     Q =[]
 
     for i in range(N):
         for j in range(M):
             if D[i][j]:
-                matrix[500+i][500+j] = [D[i][j], D[i][j]]
-                Q.append((500+i, 500+j))
+                matrix[250+i][250+j] = [D[i][j], D[i][j]]
+                Q.append((250+i, 250+j))
 
 
     while K > 0:
         Q = BFS(Q)
         K -= 1
-
 
 
     print(f"#{tc+1} {len(Q)}")
