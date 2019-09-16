@@ -24,6 +24,7 @@ def BFS(v, G):
 for tc in range(T):
     V, E = map(int, input().split())
     M = [[0 for _ in range(V+1)] for _ in range(V+1)]
+
     for _ in range(E):
         k, v = map(int, input().split())
         M[k][v] = 1

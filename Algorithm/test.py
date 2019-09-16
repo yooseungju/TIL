@@ -1,6 +1,10 @@
-a = [0,1,2,3,4,5]
 
 
+a = [[4,2,0],[4,0,3]]
 
-size = 3
-print(a[size:])
+def DFS(n,cnt,i):
+    if n == 2:
+        return
+
+    for x in range(3):
+        if x == i:
